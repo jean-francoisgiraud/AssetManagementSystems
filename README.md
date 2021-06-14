@@ -103,4 +103,8 @@ Municipalités. Exemples (video):  https://www.youtube.com/watch?v=3qm-Y5fLHXs
 Guides:  https://www.cnam.ca/wp-content/uploads/2018/05/CNAM_MAMP_BOOKLET_2018_EN_HIRES-v1.1.pdf   
 ISO 9001/14001/21500/27001/55001 Systèmes de gestion qualité, environnement, projets, information, actifs  
  
+ 
+# Presentations, Youtubes
+Greenhouse Gas Emissions Inventories Webinar. Municipal Climate Change Action Centre. https://www.youtube.com/watch?v=9ADdMSWI8C0  
+
 
