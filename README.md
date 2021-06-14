@@ -76,18 +76,23 @@ Nos systèmes sont basés sur les plans, règlements, normes, standards, requis 
  
 ## Lettre de presentation
 
-Support et formation aux municipalités pour lutter contre les changements climatiques.  
+Support et formation aux municipalités pour la lutte contre les changements climatiques.  
  
-Bonjour,  
+Bonjour,   
  
-Les plans climatiques des gouvernements Québécois et Canadien offrent des subventions tel que le Programme de Gestion des Actifs Municipaux afin de diminuer nos impacts sur l'environnement.  
+Les plans climatiques des gouvernements Québécois et Canadien offrent des subventions tel que le Programme de Gestion des Actifs Municipaux (PGAI) afin de diminuer nos impacts sur l'environnement.  
 Le montant du financement de ce programme représente 80 % des coûts totaux admissibles du projet, jusqu’à concurrence de 50 000 $ ou 90 % de 50 000 $ pour une municipalité de 1 000 citoyens ou moins.  
  
-Nous offrons des systèmes gratuits de gestion des actifs, il s'agit de chiffriers distribués documentant la surveillance des requis. 
-Nos services de support et de formation coûtent $70/heure. Une heure par semaine peut suffire pour démarrer et opérer un système et poser des gestes constructifs pour la communauté et la planète.  
- 
-Pour plus d'information voici nos systèmes, des références, guides, plans, règlements, normes:  
+Nous offrons des systèmes gratuits de gestion des actifs, il s'agit de chiffriers (en ligne, locaux ou distribués) documentant la surveillance de la conformité au PGAI et au guides Québécois et Canadien.  
+Nos services de support et de formation coûtent $70/heure. Une heure par semaine peut suffire pour démarrer et opérer un système et poser des gestes constructifs pour votre communauté et la planète.  
+  
+Pour plus d'information voici nos systèmes, des références, guides et des plans d'actions:  
 https://github.com/jean-francoisgiraud    https://sites.google.com/site/8289468canadainc   https://www.linkedin.com/in/jfgiraudengineer  
+ 
+Vos questions sont les bienvenues, merci de votre attention.  
+
+ 
+
  
 Plan Climatique Canadien:  https://climate-change.canada.ca/climate-action-map  
 Ministère de l'Environnement:  https://www.quebec.ca/gouv/ministere/environnement/publications  
