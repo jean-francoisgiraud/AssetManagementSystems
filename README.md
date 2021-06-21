@@ -76,22 +76,29 @@ Nos systèmes sont basés sur les plans, règlements, normes, standards, requis 
  
 ## Lettre de presentation
 
-Support et formation aux municipalités pour la lutte contre les changements climatiques.  
+Subvention pour le PGAM.  
  
-Bonjour,   
+Bonjour,  
  
-Les plans climatiques des gouvernements Québécois et Canadien offrent des subventions tel que le Programme de Gestion des Actifs Municipaux (PGAI) afin de diminuer nos impacts sur l'environnement.  
-Le montant du financement de ce programme représente 80 % des coûts totaux admissibles du projet, jusqu’à concurrence de 50 000 $ ou 90 % de 50 000 $ pour une municipalité de 1 000 citoyens ou moins.  
+Les plans climatiques des gouvernements Québécois et Canadien offrent des subventions tel que le Programme de Gestion des Actifs Municipaux (PGAM) afin de diminuer nos impacts sur l'environnement.  
  
-Nous offrons des systèmes gratuits de gestion des actifs, il s'agit de chiffriers (en ligne, locaux ou distribués) documentant la surveillance de la conformité au PGAI et au guides Québécois et Canadien.  
-Nos services de support et de formation coûtent $70/heure. Une heure par semaine peut suffire pour démarrer et opérer un système et poser des gestes constructifs pour votre communauté et la planète.  
+Voici quelques exemples d'activités financées par le programme: évaluations de la gestion des actifs;
+plans, politiques et stratégies de gestion des actifs; collecte de données et production de rapports;
+formation et développement organisationnel; transfert de connaissances.  
+ 
+La Fédération Canadienne des Municipalités (FCM), par le biais du PGAM, offre un financement pouvant couvrir jusqu'à 90 %  des coûts totaux d’un projet, jusqu'à concurrence de 50 000 $. Les projets doivent être terminés dans un délai de 12 mois suivant la date d'approbation du financement.  
+ 
+Nous offrons du support pour la conception, le développement, la production et la maintenance de systèmes documentant la surveillance de la conformité aux normes Québécoises ou internationales tel que PGAM, ISO 9001(qualité)/14001(environement)/21500(projets)/27001(sécurité de l'information)/55001(gestion des actifs).    
+ 
+Nos services de support et de formation coûtent $70/heure.  
   
-Pour plus d'information voici nos systèmes, des références, guides et des plans d'actions:  
-https://github.com/jean-francoisgiraud    https://sites.google.com/site/8289468canadainc   https://www.linkedin.com/in/jfgiraudengineer  
+Pour plus d'information voici les programmes, procédures et les formulaires de demande de subvention.  
+https://www.mamh.gouv.qc.ca/developpement-territorial/fonds-et-programmes/programme-de-gestion-des-actifs-municipaux-pgam/  
+https://www.fcm.ca/fr/programmes/programme-gestion-actifs-municipaux  
  
-Vos questions sont les bienvenues, merci de votre attention.  
+Vos questions sont les bienvenues. Voici des références et des exemples de nos systèmes:  
+https://github.com/jean-francoisgiraud    https://sites.google.com/site/8289468canadainc   https://www.linkedin.com/in/jfgiraudengineer    
 
- 
 
  
 Plan Climatique Canadien:  https://climate-change.canada.ca/climate-action-map  
