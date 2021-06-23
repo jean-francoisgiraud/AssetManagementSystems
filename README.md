@@ -76,31 +76,33 @@ Nos systèmes sont basés sur les plans, règlements, normes, standards, requis 
  
 ## Lettre de presentation
 
-Subvention pour le PGAM.  
+Subvention par le MAMH (Ministère des Affaires Municipales et de l'Habitation).  
  
 Bonjour,  
  
-Les plans climatiques des gouvernements Québécois et Canadien offrent des subventions tel que le Programme de Gestion des Actifs Municipaux (PGAM) afin de diminuer nos impacts sur l'environnement.  
+Le gouvernement Québécois subventionne le Programme de Gestion des Actifs Municipaux (PGAM) via le MAMH et la FCM (Fédération Canadienne des Municipalités) afin d'atténuer les impacts sur les changements climatiques et optimiser la gestion des actifs et ressources des municipalités.  
  
-Voici quelques exemples d'activités financées par le programme: évaluations de la gestion des actifs;
-plans, politiques et stratégies de gestion des actifs; collecte de données et production de rapports;
-formation et développement organisationnel; transfert de connaissances.  
+L'offre de financement peut couvrir jusqu'à 80% ou 90% des coûts totaux d’un projet, jusqu'à concurrence de $50,000. Les projets doivent être terminés dans un délai de 12 mois suivant la date d'approbation.    
  
-La Fédération Canadienne des Municipalités (FCM), par le biais du PGAM, offre un financement pouvant couvrir jusqu'à 90 %  des coûts totaux d’un projet, jusqu'à concurrence de 50 000 $. Les projets doivent être terminés dans un délai de 12 mois suivant la date d'approbation du financement.  
+Les activités financées par le programme peuvent être: l'évaluation et la planification de la gestion des actifs; la collecte de données, la production de rapports et de tableaux de bords; la formation et le développement; le transfert de connaissances [1, 2].  
  
-Nous offrons du support pour la conception, le développement, la production et la maintenance de systèmes documentant la surveillance de la conformité aux normes Québécoises ou internationales tel que PGAM, ISO 9001(qualité)/14001(environement)/21500(projets)/27001(sécurité de l'information)/55001(gestion des actifs).    
+Notre entreprise [4,5,6] offre des services de support de ces activités pour $70/hr. Nos méthodes de travail sont conformes aux normes et instructions de la FCM [3]. 
  
-Nos services de support et de formation coûtent $70/heure.  
-  
-Pour plus d'information voici les programmes, procédures et les formulaires de demande de subvention.  
-https://www.mamh.gouv.qc.ca/developpement-territorial/fonds-et-programmes/programme-de-gestion-des-actifs-municipaux-pgam/  
-https://www.fcm.ca/fr/programmes/programme-gestion-actifs-municipaux  
+Les systèmes [7] sont des chiffriers collaboratifs, distribués, sans licences ou MS Excel, Google Sheets et sont conformes aux normes PGAM, et ISO (gestion: actifs, qualité, sécurité, confidentialité, intégrité, changement).
  
-Vos questions sont les bienvenues. Voici des références et des exemples de nos systèmes:  
-https://github.com/jean-francoisgiraud    https://sites.google.com/site/8289468canadainc   https://www.linkedin.com/in/jfgiraudengineer    
+Pour plus d'information et des références [4,5,6] ou nous pouvons vous contacter. Merci de votre attention.  
+ 
+Références  
+[1] https://www.mamh.gouv.qc.ca/developpement-territorial/fonds-et-programmes/programme-de-gestion-des-actifs-municipaux-pgam/  
+[2] https://www.fcm.ca/fr/programmes/programme-gestion-actifs-municipaux  
+[3] https://fcm.ca/fr/ressources/pgam/etablir-la-portee-de-votre-projet-de-gestion-des-actifs
+[4] https://github.com/jean-francoisgiraud  
+[5] https://sites.google.com/site/8289468canadainc  
+[6] https://www.linkedin.com/in/jfgiraudengineer  
+[7] https://github.com/jean-francoisgiraud/AssetManagementSystems  
+ 
 
-
- 
+## Détails additionels   
 Plan Climatique Canadien:  https://climate-change.canada.ca/climate-action-map  
 Ministère de l'Environnement:  https://www.quebec.ca/gouv/ministere/environnement/publications  
 La Fédération Canadienne des Municipalités:  https://fcm.ca/fr/programmes/programme-gestion-actifs-municipaux  
