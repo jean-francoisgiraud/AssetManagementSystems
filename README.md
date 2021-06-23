@@ -80,17 +80,17 @@ Subvention par le MAMH (Ministère des Affaires Municipales et de l'Habitation).
  
 Bonjour,  
  
-Le gouvernement Québécois subventionne le Programme de Gestion des Actifs Municipaux (PGAM) via le MAMH et la FCM (Fédération Canadienne des Municipalités) afin d'atténuer les impacts sur les changements climatiques et optimiser la gestion des actifs et ressources des municipalités.  
+Le gouvernement Québécois subventionne le Programme de Gestion des Actifs Municipaux (PGAM) via le MAMH [1] et la FCM (Fédération Canadienne des Municipalités) [2] afin d'atténuer les impacts sur les changements climatiques et optimiser la gestion des actifs et ressources des municipalités.  
  
-L'offre de financement peut couvrir jusqu'à 80% ou 90% des coûts totaux d’un projet, jusqu'à concurrence de $50,000. Les projets doivent être terminés dans un délai de 12 mois suivant la date d'approbation.    
+L'offre de financement [2] peut couvrir jusqu'à 80% ou 90% des coûts totaux d’un projet, jusqu'à concurrence de $50,000. Les projets doivent être terminés dans un délai de 12 mois suivant la date d'approbation.    
  
-Les activités financées par le programme peuvent être: l'évaluation et la planification de la gestion des actifs; la collecte de données, la production de rapports et de tableaux de bords; la formation et le développement; le transfert de connaissances [1, 2].  
+Les activités financées par le programme peuvent être: l'évaluation et la planification de la gestion des actifs [7]; la collecte de données, la production de rapports et de tableaux de bords; la formation et le développement; le transfert de connaissances [1,2].  
  
-Notre entreprise [4,5,6] offre des services de support de ces activités pour $70/hr. Nos méthodes de travail sont conformes aux normes et instructions de la FCM [3]. 
+Notre entreprise [4,5,6] offre des services de support de ces activités et aussi d'autres systèmes de gestion [4,5,6,8] pour $70/hr (2021). Nos méthodes de travail sont conformes aux normes et instructions de la FCM [3]. 
  
-Les systèmes [7] sont des chiffriers collaboratifs, distribués, sans licences ou MS Excel, Google Sheets et sont conformes aux normes PGAM, et ISO (gestion: actifs, qualité, sécurité, confidentialité, intégrité, changement).
+Les systèmes [7] sont des chiffriers collaboratifs, distribués, sans licences ou MS Excel, Google Sheets et sont conformes aux normes PGAM [7], et ISO/AS (gestion: actifs, qualité, sécurité, environnement, confidentialité, intégrité) [5,8].
  
-Pour plus d'information et des références [4,5,6] ou nous pouvons vous contacter. Merci de votre attention.  
+Pour plus d'information et des références SVP voir [4,5,6] ou nous pouvons vous contacter. Merci de votre attention.  
  
 Références  
 [1] https://www.mamh.gouv.qc.ca/developpement-territorial/fonds-et-programmes/programme-de-gestion-des-actifs-municipaux-pgam/  
@@ -100,7 +100,7 @@ Références
 [5] https://sites.google.com/site/8289468canadainc  
 [6] https://www.linkedin.com/in/jfgiraudengineer  
 [7] https://github.com/jean-francoisgiraud/AssetManagementSystems  
- 
+[8] https://www.quebec.ca/securite-situations-urgence/securite-civile/soutien-municipalites/preparation-sinistres  
 
 ## Détails additionels   
 Plan Climatique Canadien:  https://climate-change.canada.ca/climate-action-map  
