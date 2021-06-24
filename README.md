@@ -3,14 +3,6 @@
 #### Screenshots Assets management. Capture d'écrans gestion des actifs. 
 <img src="1-AM-municipal.png" width="640" height="480">
 
-#### Images. 
-<img src="CarteActionClimatiqueCanada1.png" width="640" height="480">
-<img src="CarteActionClimatiqueCanada2.png" width="640" height="480">
-<img src="CarteActionClimatiqueCanada3.png" width="640" height="480">
-
-Ref: https://climate-change.canada.ca/climate-action-map  
- 
-
 
 # Sommaire de nos systèmes, des références, guides, plans, règlements, normes: 
   
@@ -132,6 +124,11 @@ Greenhouse Gas Emissions Inventories Webinar. Municipal Climate Change Action Ce
 
 #### Images. 
 <img src="CarteActionClimatiqueCanada1.png" width="640" height="480">
+<img src="CarteActionClimatiqueCanada2.png" width="640" height="480">
+<img src="CarteActionClimatiqueCanada3.png" width="640" height="480">
+
+Ref: https://climate-change.canada.ca/climate-action-map  
+ 
 Disclaimer. The map is for illustrative purposes only. It has not been prepared for legal, engineering or surveying purposes. In many instances, one location represents many projects. Due to varying program schedules, data availability from project partners, and confidentiality, this map is not an exhaustive list of projects and funding programs. This map is updated periodically as additional project data becomes available. Project data is also available on Open Data. Additional Government of Canada data related to clean energy, climate change and natural resource potential are also available for mapping on the Federal Geospatial Platform.
   
 Avis de non-responsabilité. Cette carte sert à des fins d'illustration seulement. Elle ne convient pas à des fins juridiques, techniques ou d'arpentage. Dans de nombreux cas, un emplacement représente plusieurs projets. En raison des divers calendriers de programmes, de la disponibilité des données des partenaires de projet et de la confidentialité, la carte n'indique pas la totalité des projets et des programmes de financement. La carte est mise à jour régulièrement lorsque de nouvelles données sur les projets sont disponibles. Les renseignements sur les projets se trouvent également sur le Portail du données ouvert. De plus, la Plateforme géospatiale fédérale offre d'autres données du gouvernement du Canada sur l'énergie propre, les changements climatiques et le potentiel des ressources naturelles aux fins de cartographie.  
