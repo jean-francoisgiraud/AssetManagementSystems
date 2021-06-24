@@ -6,7 +6,9 @@
 
 # Sommaire de nos systèmes, des références, guides, plans, règlements, normes: 
   
-https://github.com/jean-francoisgiraud    https://sites.google.com/site/8289468canadainc   https://www.linkedin.com/in/jfgiraudengineer  
+https://github.com/jean-francoisgiraud  
+https://sites.google.com/site/8289468canadainc  
+https://www.linkedin.com/in/jfgiraudengineer  
 
 Plan Climatique Canadien:  https://climate-change.canada.ca/climate-action-map  
 
