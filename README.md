@@ -41,15 +41,17 @@ Bonjour,
  
 Les plans environnementaux des gouvernements Québécois et Canadien subventionnent le PGAM via le Ministère des Affaires Municipales et de l’Habitation du Québec (MAMH) [1] et la Fédération Canadienne des Municipalités (FCM) [2].  L’objectif est d’accroître les compétences clés (gouvernance, planifications, données) des municipalités pour optimiser et assurer la continuité de leurs programmes de gestion des actifs (ressources naturelles, matérielles, humaines et logistiques). 
  
-L'offre de financement [2,14,15] peut couvrir jusqu'à 80% ou 90% des coûts totaux d’un projet, jusqu'à concurrence de $50,000. Les projets doivent être terminés dans un délai de 12 mois suivant la date d'approbation du financement. Les fonds sont versés lorsque la municipalité aura livré un rapport final complet qui satisfait aux exigences de: production de rapports [13 p.13,16], d’audit [13 p.16] et d'admissibilité des coûts [13 p.17].  
+L'offre de financement peut couvrir jusqu'à 80% ou 90% des coûts totaux d’un projet, jusqu'à concurrence de $50,000 [2,14,15]. Les projets doivent être terminés dans un délai de 12 mois suivant la date d'approbation du financement. Les fonds sont versés lorsque la municipalité aura livré un rapport final complet qui satisfait aux exigences de: production de rapports, d’audit et d'admissibilité des coûts [13 p.13,16,17].  
  
-Les activités financées par le programme peuvent être par exemple [13 p.4]: l'évaluation et la planification de la gestion des actifs [7]; la collecte de données, la production de rapports; la formation et le développement; le transfert de connaissances.
+Les activités financées par le programme peuvent être par exemple: l'évaluation et la planification de la gestion des actifs; la collecte de données, la production de rapports; la formation et le développement; le transfert de connaissances [13 p.4].
  
-Notre entreprise de gestion de systèmes [4,5,6] offre des services de support pour ces activités et pour d'autres systèmes de gestion [4,5,6,8,9] pour $70/hr (2021). Nos honoraires sont des coûts admissibles [13 p.17, 14 p.6]). Nos méthodes de travail sont conformes aux normes et instructions de la FCM [3,13].  
+Notre entreprise de gestion de systèmes offre des services de support pour ces activités et pour d'autres systèmes de gestion et du support à d'autres programmes subventionnés pour $70/hr (2021) [4,5,6,7,8]. Nos honoraires sont des coûts admissibles [13 p.17, 14 p.6]). Nos méthodes de travail sont conformes aux normes et instructions de la FCM [3,13].  
  
-Les systèmes [7] sont des registres-chiffriers collaboratifs, locaux ou distribués et conformes aux normes PGAM et ISO/AS (gestion de systèmes et données: actifs, qualité, sécurité, environnement, confidentialité, intégrité, gouvernance, amélioration continue). 
+Nos systèmes existent déjà (donc il n'y a pas pas de frais de développement) et sont:  
+1) des registres-chiffriers ouverts (.ods), collaboratifs, distribués (nuage internet, git) ou des systèmes locaux, fermés (.xls intranet);  
+2) conformes aux normes PGAM et ISO/AS (gestion de systèmes et données: actifs, qualité, sécurité, environnement, confidentialité, intégrité, gouvernance, amélioration continue) [7]. 
  
-Pour des exemples municipaux et industrielles déjà existants SVP voir [7,10,11,12].  
+Pour des exemples municipaux et industrielles déjà existants SVP voir [10,11,12].  
  
 Il nous fera plaisir de vous contacter ou de vous appeler si vous voulez. Merci de votre attention.  
  
@@ -69,6 +71,7 @@ Références
 [13] https://data.fcm.ca/documents/funding/mamp/guide-de-presentation-des-demandes.PDF
 [14] https://fcm.ca/sites/default/files/documents/funding/mamp/formulaire-de-demande.pdf  
 [15] https://www.portailmunicipal.gouv.qc.ca/SitePublic/  
+ 
  
 # Presentations, Youtubes
 Greenhouse Gas Emissions Inventories Webinar. Municipal Climate Change Action Centre. https://www.youtube.com/watch?v=9ADdMSWI8C0  
