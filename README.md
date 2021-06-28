@@ -1,5 +1,7 @@
 # Systemes de gestion des actifs / Asset Management Systems 
 
+Certaines images peuvet contenir des droits d'auteurs. / Some images may be subject to copyrights.  
+
 #### Screenshots Assets management. Capture d'écrans gestion des actifs. 
 <img src="1-AM-municipal.png" width="640" height="480">
 
@@ -76,7 +78,7 @@ Références
 # Presentations, Youtubes
 Greenhouse Gas Emissions Inventories Webinar. Municipal Climate Change Action Centre. https://www.youtube.com/watch?v=9ADdMSWI8C0  
 
-#### Images. 
+#### Images et gestion de matieres et d'énergies. 
 <img src="CarteActionClimatiqueCanada1.png" width="640" height="480">
 <img src="CarteActionClimatiqueCanada2.png" width="640" height="480">
 <img src="CarteActionClimatiqueCanada3.png" width="640" height="480">
@@ -86,4 +88,11 @@ Disclaimer. The map is for illustrative purposes only. It has not been prepared 
 Avis de non-responsabilité. Cette carte sert à des fins d'illustration seulement. Elle ne convient pas à des fins juridiques, techniques ou d'arpentage. Dans de nombreux cas, un emplacement représente plusieurs projets. En raison des divers calendriers de programmes, de la disponibilité des données des partenaires de projet et de la confidentialité, la carte n'indique pas la totalité des projets et des programmes de financement. La carte est mise à jour régulièrement lorsque de nouvelles données sur les projets sont disponibles. Les renseignements sur les projets se trouvent également sur le Portail du données ouvert. De plus, la Plateforme géospatiale fédérale offre d'autres données du gouvernement du Canada sur l'énergie propre, les changements climatiques et le potentiel des ressources naturelles aux fins de cartographie.  
 
 https://climate-change.canada.ca/climate-action-map/App/index?GOCTemplateCulture=fr-CA&zoom=3&lat=46.2199976440546&long=-71.7714605636218  
+
+<img src="Sankey-diagram-showing-the-cumulative-flow-of-materials-through-the-global-economy-from.png" width="640" height="480">
+<img src="CaliforniaEstimatedEnergyAndWaterFlows2010-1.png" width="640" height="480">
+<img src="CaliforniaEstimatedEnergyAndWaterFlows2010.png" width="640" height="480">
+<img src="asst-sankey.png" width="640" height="480">
+<img src="energy-consumption-sankey-1.png" width="640" height="480">
+<img src="1280px-Sankeysteam.png" width="640" height="480">
 
