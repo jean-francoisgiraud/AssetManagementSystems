@@ -7,81 +7,35 @@ Reference FCM outil-evaluation-de-echelle-de-preparation-pour-la-gestion-des-act
 <img src="1-screenShotFCMoutil.png" width="640" height="480">
 
 
-# Sommaire de nos systèmes, des références, guides, plans, règlements, normes: 
-  
-https://github.com/jean-francoisgiraud  
-https://sites.google.com/site/8289468canadainc  
-https://www.linkedin.com/in/jfgiraudengineer  
-
+# Références, guides, plans, règlements, normes: 
 Plan Climatique Canadien:  https://climate-change.canada.ca/climate-action-map  
-
 Ministère de l'Environnement:  https://www.quebec.ca/gouv/ministere/environnement/publications  
-
-La Fédération Canadienne des Municipalités:  https://fcm.ca/fr/programmes/programme-gestion-actifs-municipaux  
-
 L’alliance canadienne des communautés de pratique en gestion d'actifs: https://assetmanagementcanada.ca  
-
 Centre d’expertise et de recherche en infrastructures urbaines (CERIU) Québec. https://ceriu.qc.ca  
-
-Municipalités. Exemples (video):  https://www.youtube.com/watch?v=3qm-Y5fLHXs  
-
 Guides:  https://www.cnam.ca/wp-content/uploads/2018/05/CNAM_MAMP_BOOKLET_2018_EN_HIRES-v1.1.pdf   
-
 ISO 9001/14001/21500/27001/55001 Systèmes de gestion qualité, environnement, projets, information, actifs  
 
-# Version détailée:  
-
-Nos systèmes, projets, articles, références:  
-
-https://github.com/jean-francoisgiraud  
-
-https://github.com/jean-francoisgiraud/AssetManagementSystems  
-
-https://sites.google.com/site/8289468canadainc  
-
-https://www.linkedin.com/in/jfgiraudengineer  
-
-https://twitter.com/8289468  
-
-https://b-m.facebook.com/8289468CanadaInc  
- 
-
-Nos systèmes sont basés sur les plans, règlements, normes, standards, requis et exemples qui suivent:  
-
 - Plan Climatique Canadien:  
-
    https://www.canada.ca/fr/services/environnement/meteo/changementsclimatiques/plan-climatique.html  
 
-   https://climate-change.canada.ca/climate-action-map  
-
 - Ministère de l'Environnement et de la Lutte Contre les Changements Climatiques:  
-
    https://www.quebec.ca/gouv/ministere/environnement/publications  
 
-- Municipalités. Exemples (St. Ferdinand, Plessisville): https://www.youtube.com/watch?v=3qm-Y5fLHXs  
-
-- L’alliance canadienne des communautés de pratique en gestion d'actifs. https://assetmanagementcanada.ca  
+- L’alliance canadienne des communautés de pratique en gestion d'actifs.  
+  https://assetmanagementcanada.ca  
 
 - La fédération canadienne des municipalités. Programme de gestion des actifs municipaux.  
-
    https://fcm.ca/fr/programmes/programme-gestion-actifs-municipaux  
 
 - ISO 9001	Systèmes de gestion de la qualité.  
-
 - ISO 14001	Systèmes de gestion environnementale.  
-
 - ISO 21500	Systèmes de gestion de projets, programmes et portefeuilles.  
-
 - ISO 27001	Systèmes de gestion de la sécurité de l'information.  
-
 - ISO 55001	Systèmes de gestion des actifs.  
-
- 
-[1] https://fcm.ca/fr/financement/pgam/subventions-aux-municipalites-pour-la-gestion-des-actifs  
-
  
 ## Lettre de presentation
-Programme de gestion des actifs municipaux (PGAM). Subventions pour les municipalités.
+
+Programme de gestion des actifs municipaux (PGAM). Subventions pour les municipalités.  
  
 Bonjour,  
  
@@ -116,20 +70,6 @@ Références
 [14] https://fcm.ca/sites/default/files/documents/funding/mamp/formulaire-de-demande.pdf  
 [15] https://www.portailmunicipal.gouv.qc.ca/SitePublic/  
  
-
-
-
-## Détails additionels   
-Plan Climatique Canadien:  https://climate-change.canada.ca/climate-action-map  
-Ministère de l'Environnement:  https://www.quebec.ca/gouv/ministere/environnement/publications  
-La Fédération Canadienne des Municipalités:  https://fcm.ca/fr/programmes/programme-gestion-actifs-municipaux  
-L’alliance canadienne des communautés de pratique en gestion d'actifs: https://assetmanagementcanada.ca  
-Centre d’expertise et de recherche en infrastructures urbaines (CERIU) Québec. https://ceriu.qc.ca  
-Municipalités. Exemples (video):  https://www.youtube.com/watch?v=3qm-Y5fLHXs  
-Guides:  https://www.cnam.ca/wp-content/uploads/2018/05/CNAM_MAMP_BOOKLET_2018_EN_HIRES-v1.1.pdf   
-ISO 9001/14001/21500/27001/55001 Systèmes de gestion qualité, environnement, projets, information, actifs  
- 
- 
 # Presentations, Youtubes
 Greenhouse Gas Emissions Inventories Webinar. Municipal Climate Change Action Centre. https://www.youtube.com/watch?v=9ADdMSWI8C0  
 
@@ -139,10 +79,8 @@ Greenhouse Gas Emissions Inventories Webinar. Municipal Climate Change Action Ce
 <img src="CarteActionClimatiqueCanada3.png" width="640" height="480">
 
 Ref: https://climate-change.canada.ca/climate-action-map  
- 
 Disclaimer. The map is for illustrative purposes only. It has not been prepared for legal, engineering or surveying purposes. In many instances, one location represents many projects. Due to varying program schedules, data availability from project partners, and confidentiality, this map is not an exhaustive list of projects and funding programs. This map is updated periodically as additional project data becomes available. Project data is also available on Open Data. Additional Government of Canada data related to clean energy, climate change and natural resource potential are also available for mapping on the Federal Geospatial Platform.
-  
 Avis de non-responsabilité. Cette carte sert à des fins d'illustration seulement. Elle ne convient pas à des fins juridiques, techniques ou d'arpentage. Dans de nombreux cas, un emplacement représente plusieurs projets. En raison des divers calendriers de programmes, de la disponibilité des données des partenaires de projet et de la confidentialité, la carte n'indique pas la totalité des projets et des programmes de financement. La carte est mise à jour régulièrement lorsque de nouvelles données sur les projets sont disponibles. Les renseignements sur les projets se trouvent également sur le Portail du données ouvert. De plus, la Plateforme géospatiale fédérale offre d'autres données du gouvernement du Canada sur l'énergie propre, les changements climatiques et le potentiel des ressources naturelles aux fins de cartographie.  
 
-https://climate-change.canada.ca/climate-action-map/App/index?GOCTemplateCulture=fr-CA&zoom=3&lat=46.2199976440546&long=-71.7714605636218
+https://climate-change.canada.ca/climate-action-map/App/index?GOCTemplateCulture=fr-CA&zoom=3&lat=46.2199976440546&long=-71.7714605636218  
 
