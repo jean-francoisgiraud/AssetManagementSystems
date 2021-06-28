@@ -1,7 +1,10 @@
-# Asset Management Systems / Systemes de gestion des actifs
+# Systemes de gestion des actifs / Asset Management Systems 
 
 #### Screenshots Assets management. Capture d'écrans gestion des actifs. 
 <img src="1-AM-municipal.png" width="640" height="480">
+
+Reference FCM outil-evaluation-de-echelle-de-preparation-pour-la-gestion-des-actifs.xlsm  
+<img src="1-screenShotFCMoutil.png" width="640" height="480">
 
 
 # Sommaire de nos systèmes, des références, guides, plans, règlements, normes: 
@@ -78,21 +81,21 @@ Nos systèmes sont basés sur les plans, règlements, normes, standards, requis 
 
  
 ## Lettre de presentation
-Subvention environnementale par le MAMH (Ministère des Affaires Municipales et de l'Habitation).  
+Programme de gestion des actifs municipaux (PGAM). Subventions pour les municipalités.
  
 Bonjour,  
  
-Les plans environnementaux des gouvernements Québécois et Canadien subventionnent le Programme de Gestion des Actifs Municipaux (PGAM) via le MAMH [1] et la Fédération Canadienne des Municipalités (FCM) [2].  
+Les plans environnementaux des gouvernements Québécois et Canadien subventionnent le PGAM via le Ministère des Affaires Municipales et de l’Habitation du Québec (MAMH) [1] et la Fédération Canadienne des Municipalités (FCM) [2].  L’objectif est d’accroître les compétences clés (gouvernance, planifications, données) des municipalités pour optimiser et assurer la continuité de leurs programmes de gestion des actifs (ressources naturelles, matérielles, humaines et logistiques). 
  
-L'offre de financement [2] peut couvrir jusqu'à 80% ou 90% des coûts totaux d’un projet, jusqu'à concurrence de $50,000. Les projets doivent être terminés dans un délai de 12 mois suivant la date d'approbation du financement.    
+L'offre de financement [2,14,15] peut couvrir jusqu'à 80% ou 90% des coûts totaux d’un projet, jusqu'à concurrence de $50,000. Les projets doivent être terminés dans un délai de 12 mois suivant la date d'approbation du financement. Les fonds sont versés lorsque la municipalité aura livré un rapport final complet qui satisfait aux exigences de: production de rapports [13 p.13,16], d’audit [13 p.16] et d'admissibilité des coûts [13 p.17].  
  
-Les activités financées par le programme peuvent être: l'évaluation et la planification de la gestion des actifs [7]; la collecte de données, la production de rapports et de tableaux de bords; la formation et le développement; le transfert de connaissances [1,2]; la réduction de la pollution par le carbone, les technologies propres, le transport en commun [11].  
+Les activités financées par le programme peuvent être par exemple [13 p.4]: l'évaluation et la planification de la gestion des actifs [7]; la collecte de données, la production de rapports; la formation et le développement; le transfert de connaissances.
  
-Notre entreprise [4,5,6] offre des services de support pour ces activités et pour d'autres systèmes de gestion [4,5,6,8,9] pour $70/hr (2021). Nos méthodes de travail sont conformes aux normes et instructions de la FCM [3]. 
+Notre entreprise de gestion de systèmes [4,5,6] offre des services de support pour ces activités et pour d'autres systèmes de gestion [4,5,6,8,9] pour $70/hr (2021). Nos honoraires sont des coûts admissibles [13 p.17, 14 p.6]). Nos méthodes de travail sont conformes aux normes et instructions de la FCM [3,13].  
  
-Les systèmes [7] sont des chiffriers collaboratifs, autorisés, distribués et conformes aux normes PGAM [7], et ISO/AS (gestion de systèmes et données: actifs, qualité, sécurité, environnement, confidentialité, intégrité, gouvernance) [5,8].
+Les systèmes [7] sont des registres-chiffriers collaboratifs, locaux ou distribués et conformes aux normes PGAM et ISO/AS (gestion de systèmes et données: actifs, qualité, sécurité, environnement, confidentialité, intégrité, gouvernance, amélioration continue). 
  
-Pour nos références SVP voir [4,5,6]. Pour des exemples municipaux et industrielles déjà existants SVP voir [10,11].  
+Pour des exemples municipaux et industrielles déjà existants SVP voir [7,10,11,12].  
  
 Il nous fera plaisir de vous contacter ou de vous appeler si vous voulez. Merci de votre attention.  
  
@@ -107,7 +110,13 @@ Références
 [8] https://www.quebec.ca/securite-situations-urgence/securite-civile/soutien-municipalites/preparation-sinistres  
 [9] https://www.environnement.gouv.qc.ca/index.asp  
 [10] https://www.youtube.com/watch?v=3qm-Y5fLHXs  
-[11] https://climate-change.canada.ca/climate-action-map  
+[11] https://climate-change.canada.ca/climate-action-map
+[12] https://www.youtube.com/channel/UCvNxo97F92DibIA5zx9e-cw  
+[13] https://data.fcm.ca/documents/funding/mamp/guide-de-presentation-des-demandes.PDF
+[14] https://fcm.ca/sites/default/files/documents/funding/mamp/formulaire-de-demande.pdf  
+[15] https://www.portailmunicipal.gouv.qc.ca/SitePublic/  
+ 
+
 
 
 ## Détails additionels   
