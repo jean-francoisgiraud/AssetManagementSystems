@@ -1,10 +1,10 @@
-# Systemes de gestion des actifs / Asset Management Systems 
+# Systemes de Gestion des Actifs / Asset Management Systems 
 
 Nous utilisons l'analyse de données pour optimiser la durabilité, les opérations et l'environnement.  
 //  
 We use data analytics to optimize sustainability, operations and the environment.  
 
-#### Screenshots Assets management. Capture d'écrans gestion des actifs. 
+#### Capture d'écrans gestion des actifs.  / Screenshots Assets management.  
 <img src="1-AM-municipal.png" width="640" height="480">
 
 Reference FCM outil-evaluation-de-echelle-de-preparation-pour-la-gestion-des-actifs.xlsm  
