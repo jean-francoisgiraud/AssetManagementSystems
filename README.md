@@ -57,6 +57,11 @@ Assorted Pictures of assets management data analysis and visualisations (not all
 <img src="1280px-Sankeysteam.png" width="640" height="480">
 <img src="Material_Flow_Accounting_Scheme.png" width="640" height="480">
 <img src="SustainabilitySaoPaulo.jpg" width="640" height="480">
+<img src="Sankey-diagram-showing-the-cumulative-flow-of-materials-through-the-global-economy-from.png" width="640" height="480">
+<img src="CaliforniaEstimatedEnergyAndWaterFlows2010-1.png" width="640" height="480">
+<img src="CaliforniaEstimatedEnergyAndWaterFlows2010.png" width="640" height="480">
+<img src="asst-sankey.png" width="640" height="480">
+<img src="energy-consumption-sankey-1.png" width="640" height="480">
 
 
 References, copyrights, wikicommons:  
