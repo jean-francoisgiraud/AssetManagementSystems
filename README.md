@@ -74,22 +74,21 @@ By Shangri67 at English Wikipedia Public Domain, https://commons.wikimedia.org/w
 ## Lettre de presentation
 
 Subventions PGAM pour les municipalités. Offre de service.  
- 
 Bonjour,  
  
-Les plans environnementaux des gouvernements Québécois et Canadien subventionnent le Programme de Gestion des actifs municipaux (PGAM) via le Ministère des Affaires Municipales et de l’Habitation du Québec (MAMH) [1] et la Fédération Canadienne des Municipalités (FCM) [2].  L’objectif est d’accroître les compétences clés (gouvernance, planifications, données) des municipalités pour optimiser et assurer la continuité de leurs programmes de gestion des actifs (ressources naturelles, matérielles, humaines et logistiques). 
+Les plans environnementaux des gouvernements Québécois et Canadien subventionnent le Programme de Gestion des actifs municipaux (PGAM) via le Ministère des Affaires Municipales et de l’Habitation du Québec (MAMH) [1] et la Fédération Canadienne des Municipalités (FCM) [2].  L’objectif est d’accroître les compétences clés (gouvernance, planifications, analyses des données, améliorations continues) des municipalités pour optimiser et assurer la continuité de leurs programmes de gestion des actifs (ressources naturelles, matérielles, humaines et logistiques). 
  
 L'offre de financement peut couvrir jusqu'à 80% ou 90% des coûts totaux d’un projet, jusqu'à concurrence de $50,000 [2,14,15]. Les projets doivent être terminés dans un délai de 12 mois suivant la date d'approbation du financement. Les fonds sont versés lorsque la municipalité aura livré un rapport final complet qui satisfait aux exigences de: production de rapports, d’audit et d'admissibilité des coûts [13 p.13,16,17].  
  
-Les activités financées par le programme peuvent être par exemple: l'évaluation et la planification de la gestion des actifs; la collecte de données, la production de rapports [7]; la formation et le développement; le transfert de connaissances [13 p.4].
+Les activités financées par le programme peuvent être par exemple: l'évaluation et la planification de la gestion des actifs; la collecte de données, la production de rapports; la formation et le développement; le transfert de connaissances [13 p.4].
  
-Notre entreprise de gestion de systèmes offre des services de support pour ces activités et pour d'autres systèmes de gestion et du support à d'autres programmes subventionnés pour $70/hr (2021) [4,5,6,7,8,9]. Nos honoraires sont des coûts admissibles [13 p.17, 14 p.6]). Nos méthodes de travail sont conformes aux normes et instructions de la FCM [3,13].  
+Notre entreprise de gestion de systèmes offre des services de support pour ces activités pour $70/hr (2021) [4,5,6,7,8,9]. Nos honoraires sont des coûts admissibles [13 p.17, 14 p.6]). Nos méthodes de travail sont conformes aux normes et instructions de la FCM [3,13].  
  
-Nos systèmes [7] existent déjà (donc il n'y a pas pas de frais de développement) et sont:  
+Nos systèmes documentent et analysent vos données afin d'optimiser vos opérations [7] et sont:  
 1) des registres-chiffriers ouverts (.ods), collaboratifs, distribués (nuage internet, git) ou des systèmes locaux, fermés (.xls intranet);  
-2) conformes aux requis et normes du PGAM et de ISO (gestion de systèmes et données: actifs, qualité, sécurité, environnement, confidentialité, intégrité, gouvernance, amélioration continue) [7]. 
+2) conformes aux requis et normes du PGAM et de ISO (gestion de systèmes et données: actifs, qualité, sécurité, environnement, confidentialité, intégrité, gouvernance, amélioration continue). 
  
-Pour des exemples municipaux et industrielles déjà existants SVP voir [10,11,12].  
+Pour des exemples déjà existants SVP voir [10,11,12].  
  
 Il nous fera plaisir de vous contacter si vous voulez. Merci de votre attention.  
  
@@ -100,7 +99,7 @@ Références
 [4] https://github.com/jean-francoisgiraud  
 [5] https://sites.google.com/site/8289468canadainc  
 [6] https://www.linkedin.com/in/jfgiraudengineer  
-[7] https://github.com/jean-francoisgiraud/AssetManagementSystems  
+[7] https://github.com/jean-francoisgiraud/AssetManagementSystems/blob/main/README.md  
 [8] https://www.quebec.ca/securite-situations-urgence/securite-civile/soutien-municipalites/preparation-sinistres  
 [9] https://www.environnement.gouv.qc.ca/index.asp  
 [10] https://www.youtube.com/watch?v=3qm-Y5fLHXs  
@@ -108,7 +107,4 @@ Références
 [12] https://www.youtube.com/channel/UCvNxo97F92DibIA5zx9e-cw  
 [13] https://data.fcm.ca/documents/funding/mamp/guide-de-presentation-des-demandes.PDF
 [14] https://fcm.ca/sites/default/files/documents/funding/mamp/formulaire-de-demande.pdf  
-[15] https://www.portailmunicipal.gouv.qc.ca/SitePublic/   
- 
-
-
+[15] https://www.portailmunicipal.gouv.qc.ca/SitePublic/  
