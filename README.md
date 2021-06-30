@@ -60,13 +60,16 @@ Assorted Pictures of assets management data analysis and visualisations (not all
 <img src="Sankey-diagram-showing-the-cumulative-flow-of-materials-through-the-global-economy-from.png" width="640" height="480">
 <img src="CaliforniaEstimatedEnergyAndWaterFlows2010-1.png" width="640" height="480">
 <img src="CaliforniaEstimatedEnergyAndWaterFlows2010.png" width="640" height="480">
-<img src="asst-sankey.png" width="640" height="480">
 <img src="energy-consumption-sankey-1.png" width="640" height="480">
 
 
 References, copyrights, wikicommons:  
+Images and diagramms via: Wikipedia, ResearchGate, GreenCarCongress, UnityForum  
+Images may be subject to copyright  
 https://commons.wikimedia.org/wiki/File:Sankeysteam.png  
 https://en.wikipedia.org/wiki/Sustainability#/media/File:Sao_Paulo_Profile,_Level_1,_2012.jpg  
+https://www.researchgate.net/figure/Sankey-diagram-showing-the-cumulative-flow-of-materials-through-the-global-economy-from_fig3_326507485  
+https://www.greencarcongress.com/2018/04/201080420-llnl.html  
 https://en.wikipedia.org/wiki/Material_flow_accounting  
 https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Material_Flow_Accounting_Scheme.png/640px-Material_Flow_Accounting_Scheme.png  
 By Shangri67 at English Wikipedia Public Domain, https://commons.wikimedia.org/w/index.php?curid=6446919  
