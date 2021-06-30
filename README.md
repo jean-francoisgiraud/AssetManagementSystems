@@ -34,6 +34,38 @@ ISO 21500	Systèmes de gestion de projets, programmes et portefeuilles.
 ISO 27001	Systèmes de gestion de la sécurité de l'information.  
 ISO 55001	Systèmes de gestion des actifs.  
  
+# Presentations, Youtubes
+Greenhouse Gas Emissions Inventories Webinar. Municipal Climate Change Action Centre.  
+https://www.youtube.com/watch?v=9ADdMSWI8C0  
+
+# Images et gestion de matieres et d'énergies.
+Certaines images peuvent contenir des droits d'auteurs. / Some images may be subject to copyrights.  
+
+<img src="CarteActionClimatiqueCanada1.png" width="640" height="480">
+<img src="CarteActionClimatiqueCanada2.png" width="640" height="480">
+<img src="CarteActionClimatiqueCanada3.png" width="640" height="480">
+
+References:  
+https://climate-change.canada.ca/climate-action-map  
+https://climate-change.canada.ca/climate-action-map/App/index?GOCTemplateCulture=fr-CA&zoom=3&lat=46.2199976440546&long=-71.7714605636218  
+
+# Analyses de donées / Data Analytics  
+Images assorties d'analyses et de visualisations des données de gestion des actifs (toutes les images ne sont pas intégrées ici en raison des lois sur le droit d'auteur)  
+//  
+Assorted Pictures of assets management data analysis and visualisations (not all images are embedded here because of copyright laws)  
+
+<img src="1280px-Sankeysteam.png" width="640" height="480">
+<img src="Material_Flow_Accounting_Scheme.png" width="640" height="480">
+<img src="SustainabilitySao_Paulo_Profile,_Level_1,_2012.png" width="640" height="480">
+
+
+References, copyrights, wikicommons:  
+https://commons.wikimedia.org/wiki/File:Sankeysteam.png  
+https://en.wikipedia.org/wiki/Sustainability#/media/File:Sao_Paulo_Profile,_Level_1,_2012.jpg  
+https://en.wikipedia.org/wiki/Material_flow_accounting  
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Material_Flow_Accounting_Scheme.png/640px-Material_Flow_Accounting_Scheme.png  
+By Shangri67 at English Wikipedia Public Domain, https://commons.wikimedia.org/w/index.php?curid=6446919  
+
 ## Lettre de presentation
 
 Subventions PGAM pour les municipalités. Offre de service.  
@@ -73,26 +105,5 @@ Références
 [14] https://fcm.ca/sites/default/files/documents/funding/mamp/formulaire-de-demande.pdf  
 [15] https://www.portailmunicipal.gouv.qc.ca/SitePublic/   
  
-# Presentations, Youtubes
-Greenhouse Gas Emissions Inventories Webinar. Municipal Climate Change Action Centre.  
-https://www.youtube.com/watch?v=9ADdMSWI8C0  
 
-# Images et gestion de matieres et d'énergies.
-Certaines images peuvent contenir des droits d'auteurs. / Some images may be subject to copyrights.  
-
-<img src="CarteActionClimatiqueCanada1.png" width="640" height="480">
-<img src="CarteActionClimatiqueCanada2.png" width="640" height="480">
-<img src="CarteActionClimatiqueCanada3.png" width="640" height="480">
-
-References:  
-https://climate-change.canada.ca/climate-action-map  
-https://climate-change.canada.ca/climate-action-map/App/index?GOCTemplateCulture=fr-CA&zoom=3&lat=46.2199976440546&long=-71.7714605636218  
-
-# Analyses de donées / Data Analytics  
-<img src="Sankey-diagram-showing-the-cumulative-flow-of-materials-through-the-global-economy-from.png" width="640" height="480">
-<img src="CaliforniaEstimatedEnergyAndWaterFlows2010-1.png" width="640" height="480">
-<img src="CaliforniaEstimatedEnergyAndWaterFlows2010.png" width="640" height="480">
-<img src="asst-sankey.png" width="640" height="480">
-<img src="energy-consumption-sankey-1.png" width="640" height="480">
-<img src="1280px-Sankeysteam.png" width="640" height="480">
 
