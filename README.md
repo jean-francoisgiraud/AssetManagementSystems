@@ -64,7 +64,7 @@ Assorted Pictures of assets management data analysis and visualisations (not all
 
 
 References, copyrights, wikicommons:  
-Images and diagramms via: Wikipedia, ResearchGate, GreenCarCongress, UnityForum  
+Images and diagramms via: Wikipedia, ResearchGate, GreenCarCongress.  
 Images may be subject to copyright  
 https://commons.wikimedia.org/wiki/File:Sankeysteam.png  
 https://en.wikipedia.org/wiki/Sustainability#/media/File:Sao_Paulo_Profile,_Level_1,_2012.jpg  
