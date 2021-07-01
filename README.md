@@ -42,8 +42,6 @@ https://www.youtube.com/watch?v=9ADdMSWI8C0
 Certaines images peuvent contenir des droits d'auteurs. / Some images may be subject to copyrights.  
 
 <img src="CarteActionClimatiqueCanada1.png" width="640" height="480">
-<img src="CarteActionClimatiqueCanada2.png" width="640" height="480">
-<img src="CarteActionClimatiqueCanada3.png" width="640" height="480">
 
 References:  
 https://climate-change.canada.ca/climate-action-map  
@@ -54,6 +52,7 @@ Images assorties d'analyses et de visualisations des données de gestion des act
 //  
 Assorted Pictures of assets management data analysis and visualisations (not all images are embedded here because of copyright laws)  
 
+<img src="https://files.ontario.ca/moi-on-205-fig4.png" width="640" height="480">
 <img src="1280px-Sankeysteam.png" width="640" height="480">
 <img src="Material_Flow_Accounting_Scheme.png" width="640" height="480">
 <img src="SustainabilitySaoPaulo.jpg" width="640" height="480">
@@ -66,6 +65,7 @@ Assorted Pictures of assets management data analysis and visualisations (not all
 References, copyrights, wikicommons:  
 Images and diagramms via: Wikipedia, ResearchGate, GreenCarCongress.  
 Images may be subject to copyright  
+https://www.ontario.ca/document/building-better-lives-ontarios-long-term-infrastructure-plan-2017/chapter-2-planning-future  
 https://commons.wikimedia.org/wiki/File:Sankeysteam.png  
 https://en.wikipedia.org/wiki/Sustainability#/media/File:Sao_Paulo_Profile,_Level_1,_2012.jpg  
 https://www.researchgate.net/figure/Sankey-diagram-showing-the-cumulative-flow-of-materials-through-the-global-economy-from_fig3_326507485  
