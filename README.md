@@ -55,8 +55,8 @@ Images assorties d'analyses et de visualisations des données de gestion des act
 //  
 Assorted Pictures of assets management data analysis and visualisations (not all images are embedded here because of copyright laws)  
 
-
-<img src="https://files.ontario.ca/moi-on-205-fig4.png" width="640" height="480">
+<img src="MunicipalitesReductionDeCarbone.png" width="640" height="480">
+<img src="OntarioTimelyRenewal-fig4.png" width="640" height="480">
 <img src="UKenergy-Sankey.png" width="640" height="480">
 <img src="USAenergyFlow.png" width="640" height="480">
 
