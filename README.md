@@ -1,3 +1,6 @@
+This is a bilingual document, the English version follows the french version.  
+Ce document est bilingue, la version Francaise precede la version Anglaise.  
+
 # Systemes de Gestion des Actifs / Asset Management Systems 
 
 Nous utilisons l'analyse des données pour optimiser la durabilité, les opérations, la conformité reglementaire et l'environnement.  
@@ -115,3 +118,47 @@ Références
 [13] https://data.fcm.ca/documents/funding/mamp/guide-de-presentation-des-demandes.PDF
 [14] https://fcm.ca/sites/default/files/documents/funding/mamp/formulaire-de-demande.pdf  
 [15] https://www.portailmunicipal.gouv.qc.ca/SitePublic/  
+
+## Presentation Letter
+MAMP Grants for municipalities. Service offer.  
+Hello,  
+ 
+The environmental plans of the Quebec and Canadian governments subsidize the Municipal Asset Management Program (MAMP) via the Quebec Ministry of Municipal Affairs and Housing (MAMH) [1] and the Canadian Federation of Municipalities (FCM) [2] .
+ 
+The objective is to increase the key skills (governance, planning, data analysis, continuous improvements) of municipalities to optimize and ensure the continuity of their asset management programs (natural resources, material, human and logistics).
+ 
+The financing offer can cover up to 80% or 90% of the total costs of a project, up to a maximum of $ 50,000 [2,14,15]. Projects must be completed within 12 months of the date of funding approval. Funds are disbursed when the municipality has delivered a complete final report that meets the requirements for: reporting, auditing and cost eligibility [13 p.13,16,17].
+ 
+Activities funded by the program may include, for example: asset management assessment and planning; data collection, analysis and visualization; reporting; training and development; knowledge transfer [13 p.4].
+ 
+Our company offers management systems, analytics (data analysis and visualization) and support services for this type of activity [4,5,6,7,8,9].
+ 
+Our fees ($ 70 / hr in 2021) are eligible costs [13 p.17, 14 p.6]). Our working methods comply with FCM standards [3,13].
+ 
+Our systems document, analyze, visualize your data and optimize your operations and are:
+- open spreadsheet registers (.ods), collaborative, distributed (internet cloud, git) or local, closed systems (.xls intranet);
+- compliant with the requirements and standards of the PGAM and ISO (systems and data management: assets, quality, security, environment, confidentiality, integrity, governance, continuous improvement).
+ 
+For already existing examples please see [7,10,11,12].
+ 
+It will be our pleasure to contact you if you wish. Thank you for your attention.
+ 
+References
+[1] https://www.mamh.gouv.qc.ca/developpement-territorial/fonds-et-programmes/programme-de-gestion-des-actifs-municipaux-pgam/  
+[2] https://www.fcm.ca/fr/programmes/programme-gestion-actifs-municipaux  
+[3] https://fcm.ca/fr/ressources/pgam/etabler-la-portee-de-votre-projet-de-gestion-des-actifs  
+[4] https://github.com/jean-francoisgiraud  
+[5] https://sites.google.com/site/8289468canadainc  
+[6] https://www.linkedin.com/in/jfgiraudengineer  
+[7] https://github.com/jean-francoisgiraud/AssetManagementSystems/blob/main/readme.md  
+[8] https://www.quebec.ca/securite-situations-urgence/securite-civile/soutien-municipalites/preparation-sinistres  
+[9] https://www.environnement.gouv.qc.ca/index.asp  
+[10] https://www.youtube.com/watch?v=3qm-Y5fLHXs  
+[11] https://climate-change.canada.ca/climate-action-map  
+[12] https://www.youtube.com/channel/UCvNxo97F92DibIA5zx9e-cw  
+[13] https://data.fcm.ca/documents/funding/mamp/guide-de-presentation-des-demandes.PDF  
+[14] https://fcm.ca/sites/default/files/documents/funding/mamp/formulaire-de-demande.pdf  
+[15] https://www.portailmunicipal.gouv.qc.ca/SitePublic/  
+ 
+ 
+
