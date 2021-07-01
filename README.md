@@ -57,7 +57,7 @@ Assorted Pictures of assets management data analysis and visualisations (not all
 
 
 <img src="https://files.ontario.ca/moi-on-205-fig4.png" width="640" height="480">
-
+<img src="UKenergy-Sankey.png" width="640" height="480">
 <img src="USAenergyFlow.png" width="640" height="480">
 
 <img src="Material_Flow_Accounting_Scheme.png" width="640" height="480">
@@ -79,6 +79,7 @@ References, copyrights, wikicommons:
 Images and diagramms via: Wikipedia, ResearchGate, GreenCarCongress.  
 Images may be subject to copyright  
 https://www.ontario.ca/document/building-better-lives-ontarios-long-term-infrastructure-plan-2017/chapter-2-planning-future  
+https://www.r-graph-gallery.com/sankey-diagram.html  
 https://www.sankey-diagrams.com/excelling-in-excel/  
 https://commons.wikimedia.org/wiki/File:Sankeysteam.png  
 https://en.wikipedia.org/wiki/Sustainability#/media/File:Sao_Paulo_Profile,_Level_1,_2012.jpg  
