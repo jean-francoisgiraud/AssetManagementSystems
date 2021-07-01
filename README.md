@@ -79,7 +79,7 @@ References, copyrights, wikicommons:
 Images and diagramms via: Wikipedia, ResearchGate, GreenCarCongress.  
 Images may be subject to copyright  
 https://www.ontario.ca/document/building-better-lives-ontarios-long-term-infrastructure-plan-2017/chapter-2-planning-future  
-
+https://www.sankey-diagrams.com/excelling-in-excel/  
 https://commons.wikimedia.org/wiki/File:Sankeysteam.png  
 https://en.wikipedia.org/wiki/Sustainability#/media/File:Sao_Paulo_Profile,_Level_1,_2012.jpg  
 https://www.researchgate.net/figure/Sankey-diagram-showing-the-cumulative-flow-of-materials-through-the-global-economy-from_fig3_326507485  
