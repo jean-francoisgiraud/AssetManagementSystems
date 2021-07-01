@@ -1,8 +1,8 @@
 # Systemes de Gestion des Actifs / Asset Management Systems 
 
-Nous utilisons l'analyse de données pour optimiser la durabilité, les opérations et l'environnement.  
+Nous utilisons l'analyse de données pour optimiser la durabilité, les opérations, la conformité reglementaire et l'environnement.  
 //  
-We use data analytics to optimize sustainability, operations and the environment.  
+We use data analytics to optimize sustainability, operations, regulatory compliance and the environment.  
 
 #### Capture d'écrans gestion des actifs.  / Screenshots Assets management.  
 <img src="1-AM-municipal.png" width="640" height="480">
