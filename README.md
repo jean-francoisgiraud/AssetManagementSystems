@@ -1,6 +1,6 @@
 # Systemes de Gestion des Actifs / Asset Management Systems 
 
-Nous utilisons l'analyse de données pour optimiser la durabilité, les opérations, la conformité reglementaire et l'environnement.  
+Nous utilisons l'analyse des données pour optimiser la durabilité, les opérations, la conformité reglementaire et l'environnement.  
 //  
 We use data analytics to optimize sustainability, operations, regulatory compliance and the environment.  
 
@@ -47,7 +47,7 @@ References:
 https://climate-change.canada.ca/climate-action-map  
 https://climate-change.canada.ca/climate-action-map/App/index?GOCTemplateCulture=fr-CA&zoom=3&lat=46.2199976440546&long=-71.7714605636218  
 
-# Analyses de donées / Data Analytics  
+# Analyses des données / Data Analytics  
 Images assorties d'analyses et de visualisations des données de gestion des actifs (toutes les images ne sont pas intégrées ici en raison des lois sur le droit d'auteur)  
 //  
 Assorted Pictures of assets management data analysis and visualisations (not all images are embedded here because of copyright laws)  
