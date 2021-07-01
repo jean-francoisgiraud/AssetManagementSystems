@@ -38,7 +38,7 @@ ISO 55001	Systèmes de gestion des actifs.
 Greenhouse Gas Emissions Inventories Webinar. Municipal Climate Change Action Centre.  
 https://www.youtube.com/watch?v=9ADdMSWI8C0  
 
-# Images et gestion de matieres et d'énergies.
+# Gestion des ressources de la matière et de l'énergie.
 Certaines images peuvent contenir des droits d'auteurs. / Some images may be subject to copyrights.  
 
 <img src="CarteActionClimatiqueCanada1.png" width="640" height="480">
