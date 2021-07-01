@@ -177,7 +177,7 @@ References
 Voici le code R que nous utiliosn pour produire les diagrammes.  
 Here is the R code we use to produce the graphics.  
 
-# ref https://www.displayr.com/sankey-diagrams-r/
+### ref https://www.displayr.com/sankey-diagrams-r/
 library(networkD3)  
 nodes = data.frame("name" =  
  c("Energies-Renouvelables", # Node 0 
