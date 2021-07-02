@@ -174,8 +174,8 @@ References
  
  
 ## Codes (R)
-Voici le code R que nous utiliosn pour produire les diagrammes.  
-Here is the R code we use to produce the graphics.  
+Voici des exemples de code R que nous utiliosn pour produire les analyses et diagrammmes les plus complexes.  
+Here is some examples of the R code we use to produce the more complex data analysis, diagrams and graphics.  
 
 ### ref https://www.displayr.com/sankey-diagrams-r/
 library(networkD3)  
@@ -195,4 +195,9 @@ sankeyNetwork(Links = links, Nodes = nodes,
  Source = "source", Target = "target",  
  Value = "value", NodeID = "name",  
  fontSize= 30, nodeWidth = 30)  
+
+## References (code, R, datascience, 
+https://www.jessesadler.com/post/network-analysis-with-r/  
+https://kateto.net/network-visualization  (only go there if you have a powerful computer the page contains lots of heavy graphics)  
+
 
