@@ -177,7 +177,12 @@ References
 Voici des exemples de code R que nous utiliosn pour produire les analyses et diagrammmes les plus complexes.  
 Here is some examples of the R code we use to produce the more complex data analysis, diagrams and graphics.  
 
-### ref https://www.displayr.com/sankey-diagrams-r/
+
+## References (code, R, DataScience, DataVisualisation)
+https://www.jessesadler.com/post/network-analysis-with-r/  
+https://kateto.net/network-visualization  (only go there if you have a powerful computer with lots of memory the page contains lots of heavy graphics)  
+
+https://www.displayr.com/sankey-diagrams-r/  
 library(networkD3)  
 nodes = data.frame("name" =  
  c("Energies-Renouvelables", # Node 0 
@@ -196,8 +201,5 @@ sankeyNetwork(Links = links, Nodes = nodes,
  Value = "value", NodeID = "name",  
  fontSize= 30, nodeWidth = 30)  
 
-## References (code, R, datascience, 
-https://www.jessesadler.com/post/network-analysis-with-r/  
-https://kateto.net/network-visualization  (only go there if you have a powerful computer the page contains lots of heavy graphics)  
 
 
