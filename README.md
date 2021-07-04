@@ -202,7 +202,7 @@ For already existing examples please see [7,10,11,12].
  
 It will be our pleasure to contact you if you wish. Thank you for your attention.
  
-References
+References  
 [1] https://www.mamh.gouv.qc.ca/developpement-territorial/fonds-et-programmes/programme-de-gestion-des-actifs-municipaux-pgam/  
 [2] https://www.fcm.ca/en/programs/municipal-asset-management-program  
 [3] https://fcm.ca/en/programs  
