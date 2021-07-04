@@ -201,6 +201,13 @@ sankeyNetwork(Links = links, Nodes = nodes,
  Source = "source", Target = "target",  
  Value = "value", NodeID = "name",  
  fontSize= 30, nodeWidth = 30)  
+ 
+ Project Management PERT DAG  
+prec1and2<-matrix(c(0,1,0,2,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0),nrow=5,ncol=5,byrow=TRUE)  
+prec3and4<-matrix(0,nrow=5,ncol=5)  
+prec3and4[3,1]<-3  
+dag.plot(prec1and2,prec3and4)  
+
 
 ## Graphe orienté acyclique (ordonnancement et planification) // DAG (Directed acyclic graph) PERT (program evaluation and review technique)
 
@@ -208,11 +215,14 @@ La technique d'évaluation et de revue de programme (ou de projet) (PERT) est un
 //  
 The program (or project) evaluation and review technique (PERT) is a statistical tool used in project management, which was designed to analyze and represent the tasks involved in completing a given project.  
 
-<img src="Program evaluation and review technique - Wikipedia.png" width="640" height="480">
+<img src="R-PERTdagSchedule.png" width="640" height="480">  
+<img src="R-PERTdagScheduleTrace.png" width="640" height="480">  
+<img src="Program evaluation and review technique - Wikipedia.png" width="640" height="480">  
 Diagramme du réseau PERT pour un projet de sept mois avec cinq jalons (10 à 50) et six activités (A à F).  
 PERT network chart for a seven-month project with five milestones (10 through 50) and six activities (A through F).  
 
 References:  
 https://en.wikipedia.org/wiki/Directed_acyclic_graph#Applications  
 https://fr.wikipedia.org/wiki/PERT  
+https://www.capgemini.com/gb-en/2020/10/introducing-directed-acyclic-graphs-and-their-use-cases/  
 
