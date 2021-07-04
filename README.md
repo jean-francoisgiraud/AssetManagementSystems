@@ -90,6 +90,62 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Material_Flow_Accounti
 By Shangri67 at English Wikipedia Public Domain, https://commons.wikimedia.org/w/index.php?curid=6446919  
 
 
+
+ 
+ 
+## Codes (R)
+Voici des exemples de code R que nous utiliosn pour produire les analyses et diagrammmes les plus complexes.  
+Here is some examples of the R code we use to produce the more complex data analysis, diagrams and graphics.  
+
+
+## References (code, R, DataScience, DataVisualisation)
+https://www.jessesadler.com/post/network-analysis-with-r/  
+https://kateto.net/network-visualization  (only go there if you have a powerful computer with lots of memory the page contains lots of heavy graphics)  
+
+https://www.displayr.com/sankey-diagrams-r/  
+library(networkD3)  
+nodes = data.frame("name" =  
+ c("Energies-Renouvelables", # Node 0 
+ "HydroElectricité", # Node 1  
+ "SolaireEolienBiomassGeothermique", # Node 2  
+ "ReductionDeCarbone"))# Node 3  
+links = as.data.frame(matrix(c(  
+ 0, 1, 20, # Each row represents a link. The first number  
+ 0, 2, 10, # represents the node being conntected from.  
+ 1, 3, 90, # the second number represents the node connected to.  
+ 2, 3, 10),# The third number is the value of the node  
+ byrow = TRUE, ncol = 3))  
+names(links) = c("source", "target", "value")  
+sankeyNetwork(Links = links, Nodes = nodes,  
+ Source = "source", Target = "target",  
+ Value = "value", NodeID = "name",  
+ fontSize= 30, nodeWidth = 30)  
+ 
+ Project Management PERT DAG  
+prec1and2<-matrix(c(0,1,0,2,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0),nrow=5,ncol=5,byrow=TRUE)  
+prec3and4<-matrix(0,nrow=5,ncol=5)  
+prec3and4[3,1]<-3  
+dag.plot(prec1and2,prec3and4)  
+
+
+## Graphe orienté acyclique (ordonnancement et planification) // DAG (Directed acyclic graph) PERT (program evaluation and review technique)
+
+La technique d'évaluation et de revue de programme (ou de projet) (PERT) est un outil statistique utilisé dans la gestion de projet, qui a été conçu pour analyser et représenter les tâches impliquées dans la réalisation d'un projet donné.  
+//  
+The program (or project) evaluation and review technique (PERT) is a statistical tool used in project management, which was designed to analyze and represent the tasks involved in completing a given project.  
+
+<img src="R-PERTdagSchedule.png" width="640" height="480">  
+<img src="R-PERTdagScheduleTrace.png" width="640" height="480">  
+<img src="Program evaluation and review technique - Wikipedia.png" width="640" height="480">  
+Diagramme du réseau PERT pour un projet de sept mois avec cinq jalons (10 à 50) et six activités (A à F).  
+PERT network chart for a seven-month project with five milestones (10 through 50) and six activities (A through F).  
+
+References:  
+https://en.wikipedia.org/wiki/Directed_acyclic_graph#Applications  
+https://fr.wikipedia.org/wiki/PERT  
+https://www.capgemini.com/gb-en/2020/10/introducing-directed-acyclic-graphs-and-their-use-cases/  
+
+
 ## Lettre de presentation
 
 Subventions PGAM pour les municipalités. Offre de service.  
@@ -172,57 +228,3 @@ References
 [13] https://data.fcm.ca/documents/funding/mamp/guide-de-presentation-des-demandes.PDF  
 [14] https://fcm.ca/sites/default/files/documents/funding/mamp/formulaire-de-demande.pdf  
 [15] https://www.portailmunicipal.gouv.qc.ca/SitePublic/  
- 
- 
-## Codes (R)
-Voici des exemples de code R que nous utiliosn pour produire les analyses et diagrammmes les plus complexes.  
-Here is some examples of the R code we use to produce the more complex data analysis, diagrams and graphics.  
-
-
-## References (code, R, DataScience, DataVisualisation)
-https://www.jessesadler.com/post/network-analysis-with-r/  
-https://kateto.net/network-visualization  (only go there if you have a powerful computer with lots of memory the page contains lots of heavy graphics)  
-
-https://www.displayr.com/sankey-diagrams-r/  
-library(networkD3)  
-nodes = data.frame("name" =  
- c("Energies-Renouvelables", # Node 0 
- "HydroElectricité", # Node 1  
- "SolaireEolienBiomassGeothermique", # Node 2  
- "ReductionDeCarbone"))# Node 3  
-links = as.data.frame(matrix(c(  
- 0, 1, 20, # Each row represents a link. The first number  
- 0, 2, 10, # represents the node being conntected from.  
- 1, 3, 90, # the second number represents the node connected to.  
- 2, 3, 10),# The third number is the value of the node  
- byrow = TRUE, ncol = 3))  
-names(links) = c("source", "target", "value")  
-sankeyNetwork(Links = links, Nodes = nodes,  
- Source = "source", Target = "target",  
- Value = "value", NodeID = "name",  
- fontSize= 30, nodeWidth = 30)  
- 
- Project Management PERT DAG  
-prec1and2<-matrix(c(0,1,0,2,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0),nrow=5,ncol=5,byrow=TRUE)  
-prec3and4<-matrix(0,nrow=5,ncol=5)  
-prec3and4[3,1]<-3  
-dag.plot(prec1and2,prec3and4)  
-
-
-## Graphe orienté acyclique (ordonnancement et planification) // DAG (Directed acyclic graph) PERT (program evaluation and review technique)
-
-La technique d'évaluation et de revue de programme (ou de projet) (PERT) est un outil statistique utilisé dans la gestion de projet, qui a été conçu pour analyser et représenter les tâches impliquées dans la réalisation d'un projet donné.  
-//  
-The program (or project) evaluation and review technique (PERT) is a statistical tool used in project management, which was designed to analyze and represent the tasks involved in completing a given project.  
-
-<img src="R-PERTdagSchedule.png" width="640" height="480">  
-<img src="R-PERTdagScheduleTrace.png" width="640" height="480">  
-<img src="Program evaluation and review technique - Wikipedia.png" width="640" height="480">  
-Diagramme du réseau PERT pour un projet de sept mois avec cinq jalons (10 à 50) et six activités (A à F).  
-PERT network chart for a seven-month project with five milestones (10 through 50) and six activities (A through F).  
-
-References:  
-https://en.wikipedia.org/wiki/Directed_acyclic_graph#Applications  
-https://fr.wikipedia.org/wiki/PERT  
-https://www.capgemini.com/gb-en/2020/10/introducing-directed-acyclic-graphs-and-their-use-cases/  
-
