@@ -51,9 +51,9 @@ https://climate-change.canada.ca/climate-action-map
 https://climate-change.canada.ca/climate-action-map/App/index?GOCTemplateCulture=fr-CA&zoom=3&lat=46.2199976440546&long=-71.7714605636218  
 
 # Images et diagrammes d'analyses des données / Images and diagrams of Data Analytics  
-Images assorties de plans, d'optimisations, d'analyses et de visualisations des données de gestion des actifs (toutes les images ne sont pas intégrées ici en raison des lois sur le droit d'auteur)  
+Images assorties de plans, d'optimisations, d'analyses et de visualisations des données de gestion des actifs (il y a des images produites par notre entreprise et d'autres organismes).  
 //  
-Assorted Pictures of assets management data analysis and visualisations (not all images are embedded here because of copyright laws)  
+Assorted Pictures of assets management data analysis and visualisations (some images are from our company and other images are from other organisations).  
 <img src="MunicipalitesReductionDeCarbone.png" width="640" height="480">
 <img src="OntarioTimelyRenewal-fig4.png" width="640" height="480">
 <img src="PGAMchronologie.png" width="640" height="480">
