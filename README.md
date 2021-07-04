@@ -189,8 +189,8 @@ Références
 [15] https://www.portailmunicipal.gouv.qc.ca/SitePublic/  
 
 ## Presentation Letter
-MAMP Grants for municipalities. Service offer.  
-Hello,  
+MAMP Grants for municipalities. Service offer.
+Hello,
  
 The environmental plans of the Quebec and Canadian governments subsidize the Municipal Asset Management Program (MAMP) via the Quebec Ministry of Municipal Affairs and Housing (MAMH) [1] and the Canadian Federation of Municipalities (FCM) [2] .
  
@@ -214,17 +214,18 @@ It will be our pleasure to contact you if you wish. Thank you for your attention
  
 References
 [1] https://www.mamh.gouv.qc.ca/developpement-territorial/fonds-et-programmes/programme-de-gestion-des-actifs-municipaux-pgam/  
-[2] https://www.fcm.ca/fr/programmes/programme-gestion-actifs-municipaux  
-[3] https://fcm.ca/fr/ressources/pgam/etabler-la-portee-de-votre-projet-de-gestion-des-actifs  
+[2] https://www.fcm.ca/en/programs/municipal-asset-management-program  
+[3] https://fcm.ca/en/programs  
 [4] https://github.com/jean-francoisgiraud  
 [5] https://sites.google.com/site/8289468canadainc  
 [6] https://www.linkedin.com/in/jfgiraudengineer  
 [7] https://github.com/jean-francoisgiraud/AssetManagementSystems/blob/main/readme.md  
 [8] https://www.quebec.ca/securite-situations-urgence/securite-civile/soutien-municipalites/preparation-sinistres  
-[9] https://www.environnement.gouv.qc.ca/index.asp  
+[9] https://www.environnement.gouv.qc.ca/index_en.asp  
 [10] https://www.youtube.com/watch?v=3qm-Y5fLHXs  
 [11] https://climate-change.canada.ca/climate-action-map  
 [12] https://www.youtube.com/channel/UCvNxo97F92DibIA5zx9e-cw  
-[13] https://data.fcm.ca/documents/funding/mamp/guide-de-presentation-des-demandes.PDF  
-[14] https://fcm.ca/sites/default/files/documents/funding/mamp/formulaire-de-demande.pdf  
+[13] https://data.fcm.ca/documents/funding/mamp/application-guide.PDF  
+[14] https://fcm.ca/sites/default/files/documents/funding/mamp/application-form.pdf  
 [15] https://www.portailmunicipal.gouv.qc.ca/SitePublic/  
+ 
