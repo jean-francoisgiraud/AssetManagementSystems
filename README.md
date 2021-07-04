@@ -13,6 +13,41 @@ We use data analytics to optimize sustainability, operations, regulatory complia
 Reference FCM outil-evaluation-de-echelle-de-preparation-pour-la-gestion-des-actifs.xlsm  
 <img src="1-screenShotFCMoutil.png" width="640" height="480">
 
+# Images et diagrammes d'analyses des données / Images and diagrams of Data Analytics  
+Images assorties de plans, d'optimisations, d'analyses et de visualisations des données de gestion des actifs (il y a des images produites par notre entreprise et d'autres organismes).  
+//  
+Assorted Pictures of assets management data analysis and visualisations (some images are from our company and other images are from other organisations).  
+<img src="MunicipalitesReductionDeCarbone.png" width="640" height="480">
+<img src="OntarioTimelyRenewal-fig4.png" width="640" height="480">
+<img src="PGAMchronologie.png" width="640" height="480">
+<img src="PGAMganttFR.png" width="640" height="480">
+<img src="UKenergy-Sankey.png" width="640" height="480">
+<img src="USAenergyFlow.png" width="640" height="480">
+<img src="Material_Flow_Accounting_Scheme.png" width="640" height="480">
+<img src="R-PERTdagSchedule.png" width="640" height="480">  
+<img src="R-PERTdagScheduleTrace.png" width="640" height="480">  
+
+# Images d'autres organisations // images from other organisations 
+<img src="SustainabilitySaoPaulo.jpg" width="640" height="480">
+<img src="Sankey-diagram-showing-the-cumulative-flow-of-materials-through-the-global-economy-from.png" width="640" height="480">
+<img src="CaliforniaEstimatedEnergyAndWaterFlows2010-1.png" width="640" height="480">
+<img src="CaliforniaEstimatedEnergyAndWaterFlows2010.png" width="640" height="480">
+<img src="1280px-Sankeysteam.png" width="640" height="480">
+<img src="energy-consumption-sankey-1.png" width="640" height="480">
+
+References, copyrights, wikicommons, disclaimers:  
+Images and diagramms via: Wikipedia, ResearchGate, GreenCarCongress.  
+Images may be subject to copyright  
+https://www.ontario.ca/document/building-better-lives-ontarios-long-term-infrastructure-plan-2017/chapter-2-planning-future  
+https://www.r-graph-gallery.com/sankey-diagram.html  
+https://www.sankey-diagrams.com/excelling-in-excel/  
+https://commons.wikimedia.org/wiki/File:Sankeysteam.png  
+https://en.wikipedia.org/wiki/Sustainability#/media/File:Sao_Paulo_Profile,_Level_1,_2012.jpg  
+https://www.researchgate.net/figure/Sankey-diagram-showing-the-cumulative-flow-of-materials-through-the-global-economy-from_fig3_326507485  
+https://www.greencarcongress.com/2018/04/201080420-llnl.html  
+https://en.wikipedia.org/wiki/Material_flow_accounting  
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Material_Flow_Accounting_Scheme.png/640px-Material_Flow_Accounting_Scheme.png  
+By Shangri67 at English Wikipedia Public Domain, https://commons.wikimedia.org/w/index.php?curid=6446919  
 
 # Références, guides, plans, règlements, normes: 
 Plan Climatique Canadien:  https://climate-change.canada.ca/climate-action-map  
@@ -50,40 +85,6 @@ References:
 https://climate-change.canada.ca/climate-action-map  
 https://climate-change.canada.ca/climate-action-map/App/index?GOCTemplateCulture=fr-CA&zoom=3&lat=46.2199976440546&long=-71.7714605636218  
 
-# Images et diagrammes d'analyses des données / Images and diagrams of Data Analytics  
-Images assorties de plans, d'optimisations, d'analyses et de visualisations des données de gestion des actifs (il y a des images produites par notre entreprise et d'autres organismes).  
-//  
-Assorted Pictures of assets management data analysis and visualisations (some images are from our company and other images are from other organisations).  
-<img src="MunicipalitesReductionDeCarbone.png" width="640" height="480">
-<img src="OntarioTimelyRenewal-fig4.png" width="640" height="480">
-<img src="PGAMchronologie.png" width="640" height="480">
-<img src="PGAMganttFR.png" width="640" height="480">
-<img src="UKenergy-Sankey.png" width="640" height="480">
-<img src="USAenergyFlow.png" width="640" height="480">
-<img src="Material_Flow_Accounting_Scheme.png" width="640" height="480">
-<img src="SustainabilitySaoPaulo.jpg" width="640" height="480">
-<img src="Sankey-diagram-showing-the-cumulative-flow-of-materials-through-the-global-economy-from.png" width="640" height="480">
-<img src="CaliforniaEstimatedEnergyAndWaterFlows2010-1.png" width="640" height="480">
-<img src="CaliforniaEstimatedEnergyAndWaterFlows2010.png" width="640" height="480">
-<img src="1280px-Sankeysteam.png" width="640" height="480">
-<img src="energy-consumption-sankey-1.png" width="640" height="480">
-
-
-References, copyrights, wikicommons, disclaimers:  
-Images and diagramms via: Wikipedia, ResearchGate, GreenCarCongress.  
-Images may be subject to copyright  
-https://www.ontario.ca/document/building-better-lives-ontarios-long-term-infrastructure-plan-2017/chapter-2-planning-future  
-https://www.r-graph-gallery.com/sankey-diagram.html  
-https://www.sankey-diagrams.com/excelling-in-excel/  
-https://commons.wikimedia.org/wiki/File:Sankeysteam.png  
-https://en.wikipedia.org/wiki/Sustainability#/media/File:Sao_Paulo_Profile,_Level_1,_2012.jpg  
-https://www.researchgate.net/figure/Sankey-diagram-showing-the-cumulative-flow-of-materials-through-the-global-economy-from_fig3_326507485  
-https://www.greencarcongress.com/2018/04/201080420-llnl.html  
-https://en.wikipedia.org/wiki/Material_flow_accounting  
-https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Material_Flow_Accounting_Scheme.png/640px-Material_Flow_Accounting_Scheme.png  
-By Shangri67 at English Wikipedia Public Domain, https://commons.wikimedia.org/w/index.php?curid=6446919  
-
- 
 ## Codes (R)
 Voici des exemples de code R que nous utilions pour produire les plans, optimisations, analyses et diagrammmes les plus complexes.  
 Here is some examples of the R code we use to produce the more complex plans, optimisations, data analysis, diagrams and graphics.  
@@ -126,8 +127,6 @@ La technique d'évaluation et de revue de programme (ou de projet) (PERT) est un
 //  
 The program (or project) evaluation and review technique (PERT) is a statistical tool used in project management, which was designed to analyze and represent the tasks involved in completing a given project.  
 
-<img src="R-PERTdagSchedule.png" width="640" height="480">  
-<img src="R-PERTdagScheduleTrace.png" width="640" height="480">  
 <img src="Program evaluation and review technique - Wikipedia.png" width="640" height="480">  
 Diagramme du réseau PERT pour un projet de sept mois avec cinq jalons (10 à 50) et six activités (A à F).  
 PERT network chart for a seven-month project with five milestones (10 through 50) and six activities (A through F).  
@@ -136,7 +135,6 @@ References:
 https://en.wikipedia.org/wiki/Directed_acyclic_graph#Applications  
 https://fr.wikipedia.org/wiki/PERT  
 https://www.capgemini.com/gb-en/2020/10/introducing-directed-acyclic-graphs-and-their-use-cases/  
-
 
 ## Lettre de presentation
 
