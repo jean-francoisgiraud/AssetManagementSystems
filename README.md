@@ -51,27 +51,20 @@ https://climate-change.canada.ca/climate-action-map
 https://climate-change.canada.ca/climate-action-map/App/index?GOCTemplateCulture=fr-CA&zoom=3&lat=46.2199976440546&long=-71.7714605636218  
 
 # Images et diagrammes d'analyses des données / Images and diagrams of Data Analytics  
-Images assorties d'analyses et de visualisations des données de gestion des actifs (toutes les images ne sont pas intégrées ici en raison des lois sur le droit d'auteur)  
+Images assorties de plans, d'optimisations, d'analyses et de visualisations des données de gestion des actifs (toutes les images ne sont pas intégrées ici en raison des lois sur le droit d'auteur)  
 //  
 Assorted Pictures of assets management data analysis and visualisations (not all images are embedded here because of copyright laws)  
-
 <img src="MunicipalitesReductionDeCarbone.png" width="640" height="480">
 <img src="OntarioTimelyRenewal-fig4.png" width="640" height="480">
+<img src="PGAMchronologie.png" width="640" height="480">
 <img src="UKenergy-Sankey.png" width="640" height="480">
 <img src="USAenergyFlow.png" width="640" height="480">
-
 <img src="Material_Flow_Accounting_Scheme.png" width="640" height="480">
-
 <img src="SustainabilitySaoPaulo.jpg" width="640" height="480">
-
 <img src="Sankey-diagram-showing-the-cumulative-flow-of-materials-through-the-global-economy-from.png" width="640" height="480">
-
 <img src="CaliforniaEstimatedEnergyAndWaterFlows2010-1.png" width="640" height="480">
-
 <img src="CaliforniaEstimatedEnergyAndWaterFlows2010.png" width="640" height="480">
-
 <img src="1280px-Sankeysteam.png" width="640" height="480">
-
 <img src="energy-consumption-sankey-1.png" width="640" height="480">
 
 
@@ -89,13 +82,10 @@ https://en.wikipedia.org/wiki/Material_flow_accounting
 https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Material_Flow_Accounting_Scheme.png/640px-Material_Flow_Accounting_Scheme.png  
 By Shangri67 at English Wikipedia Public Domain, https://commons.wikimedia.org/w/index.php?curid=6446919  
 
-
-
- 
  
 ## Codes (R)
-Voici des exemples de code R que nous utiliosn pour produire les analyses et diagrammmes les plus complexes.  
-Here is some examples of the R code we use to produce the more complex data analysis, diagrams and graphics.  
+Voici des exemples de code R que nous utilions pour produire les plans, optimisations, analyses et diagrammmes les plus complexes.  
+Here is some examples of the R code we use to produce the more complex plans, optimisations, data analysis, diagrams and graphics.  
 
 
 ## References (code, R, DataScience, DataVisualisation)
