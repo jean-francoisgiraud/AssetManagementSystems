@@ -57,6 +57,7 @@ Assorted Pictures of assets management data analysis and visualisations (some im
 <img src="MunicipalitesReductionDeCarbone.png" width="640" height="480">
 <img src="OntarioTimelyRenewal-fig4.png" width="640" height="480">
 <img src="PGAMchronologie.png" width="640" height="480">
+<img src="PGAMganttFR.png" width="640" height="480">
 <img src="UKenergy-Sankey.png" width="640" height="480">
 <img src="USAenergyFlow.png" width="640" height="480">
 <img src="Material_Flow_Accounting_Scheme.png" width="640" height="480">
@@ -91,6 +92,7 @@ Here is some examples of the R code we use to produce the more complex plans, op
 ## References (code, R, DataScience, DataVisualisation)
 https://www.jessesadler.com/post/network-analysis-with-r/  
 https://kateto.net/network-visualization  (only go there if you have a powerful computer with lots of memory the page contains lots of heavy graphics)  
+https://medium.com/analytics-vidhya/project-management-tools-with-r-7f5fcacb2d4  
 
 https://www.displayr.com/sankey-diagrams-r/  
 library(networkD3)  
