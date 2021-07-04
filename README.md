@@ -1,7 +1,7 @@
 This is a bilingual document, the English version follows the french version.  
 Ce document est bilingue, la version Francaise precede la version Anglaise.  
 
-# Systemes de Gestion des Actifs / Asset Management Systems 
+# Systemes de Gestion et Optimisation des Actifs / Asset Management and Optimisation Systems 
 
 Nous utilisons l'analyse des données pour optimiser la durabilité, les opérations, la conformité reglementaire et l'environnement.  
 //  
@@ -41,7 +41,7 @@ ISO 55001	Systèmes de gestion des actifs.
 Greenhouse Gas Emissions Inventories Webinar. Municipal Climate Change Action Centre.  
 https://www.youtube.com/watch?v=9ADdMSWI8C0  
 
-# Gestion des ressources de la matière et de l'énergie.
+# Gestion des ressources de la matière, l'énergie, plans de trvail. / Management of resources materials, energy, workflows.
 Certaines images peuvent contenir des droits d'auteurs. / Some images may be subject to copyrights.  
 
 <img src="CarteActionClimatiqueCanada1.png" width="640" height="480">
@@ -50,7 +50,7 @@ References:
 https://climate-change.canada.ca/climate-action-map  
 https://climate-change.canada.ca/climate-action-map/App/index?GOCTemplateCulture=fr-CA&zoom=3&lat=46.2199976440546&long=-71.7714605636218  
 
-# Analyses des données / Data Analytics  
+# Images et diagrammes d'analyses des données / Images and diagrams of Data Analytics  
 Images assorties d'analyses et de visualisations des données de gestion des actifs (toutes les images ne sont pas intégrées ici en raison des lois sur le droit d'auteur)  
 //  
 Assorted Pictures of assets management data analysis and visualisations (not all images are embedded here because of copyright laws)  
@@ -75,7 +75,7 @@ Assorted Pictures of assets management data analysis and visualisations (not all
 <img src="energy-consumption-sankey-1.png" width="640" height="480">
 
 
-References, copyrights, wikicommons:  
+References, copyrights, wikicommons, disclaimers:  
 Images and diagramms via: Wikipedia, ResearchGate, GreenCarCongress.  
 Images may be subject to copyright  
 https://www.ontario.ca/document/building-better-lives-ontarios-long-term-infrastructure-plan-2017/chapter-2-planning-future  
@@ -88,6 +88,7 @@ https://www.greencarcongress.com/2018/04/201080420-llnl.html
 https://en.wikipedia.org/wiki/Material_flow_accounting  
 https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Material_Flow_Accounting_Scheme.png/640px-Material_Flow_Accounting_Scheme.png  
 By Shangri67 at English Wikipedia Public Domain, https://commons.wikimedia.org/w/index.php?curid=6446919  
+
 
 ## Lettre de presentation
 
@@ -201,5 +202,17 @@ sankeyNetwork(Links = links, Nodes = nodes,
  Value = "value", NodeID = "name",  
  fontSize= 30, nodeWidth = 30)  
 
+## Graphe orienté acyclique (ordonnancement et planification) // DAG (Directed acyclic graph) PERT (program evaluation and review technique)
 
+La technique d'évaluation et de revue de programme (ou de projet) (PERT) est un outil statistique utilisé dans la gestion de projet, qui a été conçu pour analyser et représenter les tâches impliquées dans la réalisation d'un projet donné.  
+//  
+The program (or project) evaluation and review technique (PERT) is a statistical tool used in project management, which was designed to analyze and represent the tasks involved in completing a given project.  
+
+<img src="Program evaluation and review technique - Wikipedia.png" width="640" height="480">
+Diagramme du réseau PERT pour un projet de sept mois avec cinq jalons (10 à 50) et six activités (A à F).  
+PERT network chart for a seven-month project with five milestones (10 through 50) and six activities (A through F).  
+
+References:  
+https://en.wikipedia.org/wiki/Directed_acyclic_graph#Applications  
+https://fr.wikipedia.org/wiki/PERT  
 
