@@ -13,6 +13,19 @@ We use data analytics to optimize sustainability, operations, regulatory complia
 Reference FCM outil-evaluation-de-echelle-de-preparation-pour-la-gestion-des-actifs.xlsm  
 <img src="1-screenShotFCMoutil.png" width="640" height="480">
 
+# Presentations, Youtubes
+Greenhouse Gas Emissions Inventories Webinar. Municipal Climate Change Action Centre.  
+https://www.youtube.com/watch?v=9ADdMSWI8C0  
+
+# Gestion des ressources de la matière, l'énergie, plans de trvail. / Management of resources materials, energy, workflows.
+Certaines images peuvent contenir des droits d'auteurs. / Some images may be subject to copyrights.  
+
+<img src="CarteActionClimatiqueCanada1.png" width="640" height="480">
+
+References:  
+https://climate-change.canada.ca/climate-action-map  
+https://climate-change.canada.ca/climate-action-map/App/index?GOCTemplateCulture=fr-CA&zoom=3&lat=46.2199976440546&long=-71.7714605636218 
+
 # Images et diagrammes d'analyses des données / Images and diagrams of Data Analytics  
 Images assorties de plans, d'optimisations, d'analyses et de visualisations des données de gestion des actifs (il y a des images produites par notre entreprise et d'autres organismes).  
 //  
@@ -21,13 +34,16 @@ Assorted Pictures of assets management data analysis and visualisations (some im
 <img src="OntarioTimelyRenewal-fig4.png" width="640" height="480">
 <img src="PGAMchronologie.png" width="640" height="480">
 <img src="PGAMganttFR.png" width="640" height="480">
+<img src="R-PERTdagSchedule.png" width="640" height="480">  
+<img src="R-PERTdagScheduleTrace.png" width="640" height="480">  
+<img src="Program evaluation and review technique - Wikipedia.png" width="640" height="480">  
+Diagramme de réseau pour un projet de sept mois avec cinq jalons (10 à 50) et six activités (A à F).  
+PERT network chart for a seven-month project with five milestones (10 through 50) and six activities (A through F).  
+
+# Images d'autres organisations // images from other organisations 
 <img src="UKenergy-Sankey.png" width="640" height="480">
 <img src="USAenergyFlow.png" width="640" height="480">
 <img src="Material_Flow_Accounting_Scheme.png" width="640" height="480">
-<img src="R-PERTdagSchedule.png" width="640" height="480">  
-<img src="R-PERTdagScheduleTrace.png" width="640" height="480">  
-
-# Images d'autres organisations // images from other organisations 
 <img src="SustainabilitySaoPaulo.jpg" width="640" height="480">
 <img src="Sankey-diagram-showing-the-cumulative-flow-of-materials-through-the-global-economy-from.png" width="640" height="480">
 <img src="CaliforniaEstimatedEnergyAndWaterFlows2010-1.png" width="640" height="480">
@@ -71,19 +87,7 @@ ISO 14001	Systèmes de gestion environnementale.
 ISO 21500	Systèmes de gestion de projets, programmes et portefeuilles.  
 ISO 27001	Systèmes de gestion de la sécurité de l'information.  
 ISO 55001	Systèmes de gestion des actifs.  
- 
-# Presentations, Youtubes
-Greenhouse Gas Emissions Inventories Webinar. Municipal Climate Change Action Centre.  
-https://www.youtube.com/watch?v=9ADdMSWI8C0  
-
-# Gestion des ressources de la matière, l'énergie, plans de trvail. / Management of resources materials, energy, workflows.
-Certaines images peuvent contenir des droits d'auteurs. / Some images may be subject to copyrights.  
-
-<img src="CarteActionClimatiqueCanada1.png" width="640" height="480">
-
-References:  
-https://climate-change.canada.ca/climate-action-map  
-https://climate-change.canada.ca/climate-action-map/App/index?GOCTemplateCulture=fr-CA&zoom=3&lat=46.2199976440546&long=-71.7714605636218  
+  
 
 ## Codes (R)
 Voici des exemples de code R que nous utilions pour produire les plans, optimisations, analyses et diagrammmes les plus complexes.  
@@ -126,10 +130,6 @@ dag.plot(prec1and2,prec3and4)
 La technique d'évaluation et de revue de programme (ou de projet) (PERT) est un outil statistique utilisé dans la gestion de projet, qui a été conçu pour analyser et représenter les tâches impliquées dans la réalisation d'un projet donné.  
 //  
 The program (or project) evaluation and review technique (PERT) is a statistical tool used in project management, which was designed to analyze and represent the tasks involved in completing a given project.  
-
-<img src="Program evaluation and review technique - Wikipedia.png" width="640" height="480">  
-Diagramme du réseau PERT pour un projet de sept mois avec cinq jalons (10 à 50) et six activités (A à F).  
-PERT network chart for a seven-month project with five milestones (10 through 50) and six activities (A through F).  
 
 References:  
 https://en.wikipedia.org/wiki/Directed_acyclic_graph#Applications  
