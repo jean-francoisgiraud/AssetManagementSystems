@@ -1,11 +1,10 @@
 This is a bilingual document, the English version follows the french version.  
 Ce document est bilingue, la version Francaise precede la version Anglaise.  
 
-# Systemes de Gestion et Optimisation des Actifs / Asset Management and Optimisation Systems 
+# Systemes de Gestion et Optimisation des Actifs / Asset Management and Optimisation Systems. 
 
-Nous utilisons l'analyse des données pour optimiser la durabilité, les opérations, la conformité reglementaire et l'environnement.  
-//  
-We use data analytics to optimize sustainability, operations, regulatory compliance and the environment.  
+Nous utilisons la gestion de qualité/projets et l'analyse des données pour optimiser le developement durabille, les opérations, la conformité reglementaire et l'environnement.  //  
+We use quality/project managment and data analytics to optimize sustainability, operations, regulatory compliance and the environment.  
 
 #### Capture d'écrans gestion des actifs.  / Screenshots Assets management.  
 <img src="1-AM-municipal.png" width="640" height="480">
@@ -17,7 +16,7 @@ Reference FCM outil-evaluation-de-echelle-de-preparation-pour-la-gestion-des-act
 Greenhouse Gas Emissions Inventories Webinar. Municipal Climate Change Action Centre.  
 https://www.youtube.com/watch?v=9ADdMSWI8C0  
 
-# Gestion des ressources de la matière, l'énergie, plans de trvail. / Management of resources materials, energy, workflows.
+# Gestion des ressources de la matière, l'énergie, plans de travail. / Management of resources materials, energy, workflows.
 Certaines images peuvent contenir des droits d'auteurs. / Some images may be subject to copyrights.  
 
 <img src="CarteActionClimatiqueCanada1.png" width="640" height="480">
@@ -40,7 +39,7 @@ Assorted Pictures of assets management data analysis and visualisations (some im
 Diagramme de réseau pour un projet de sept mois avec cinq jalons (10 à 50) et six activités (A à F).  
 PERT network chart for a seven-month project with five milestones (10 through 50) and six activities (A through F).  
 
-# Images d'autres organisations // images from other organisations 
+# Images d'autres organisations // Images from other organisations: 
 <img src="UKenergy-Sankey.png" width="640" height="480">
 <img src="USAenergyFlow.png" width="640" height="480">
 <img src="Material_Flow_Accounting_Scheme.png" width="640" height="480">
@@ -90,9 +89,12 @@ ISO 55001	Systèmes de gestion des actifs.
   
 
 ## Codes (R)
-Voici des exemples de code R que nous utilions pour produire les plans, optimisations, analyses et diagrammmes les plus complexes.  
-Here is some examples of the R code we use to produce the more complex plans, optimisations, data analysis, diagrams and graphics.  
+Voici des exemples de code R [1] que nous utilions pour produire les plans, optimisations, analyses et diagrammmes les plus complexes.  
+// 
+Here is some examples of the R code [2] we use to produce the more complex plans, optimisations, data analysis, diagrams and graphics.  
 
+[1] R est un langage de programmation et un logiciel libre destiné aux statistiques et à la science des données. ref https://fr.wikipedia.org/wiki/R_(langage)  
+[2] R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data analysis. ref https://en.wikipedia.org/wiki/R_(programming_language)  
 
 ## References (code, R, DataScience, DataVisualisation)
 https://www.jessesadler.com/post/network-analysis-with-r/  
