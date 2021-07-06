@@ -125,7 +125,7 @@ prec3and4[3,1]<-3
 dag.plot(prec1and2,prec3and4)  
 
 
-## Graphe orienté acyclique (ordonnancement et planification) // DAG (Directed acyclic graph) PERT (program evaluation and review technique)
+## Graphe orienté acyclique (ordonnancement et planification) CPM // DAG (Directed acyclic graph) PERT (program evaluation and review technique) CPM (Critical Path Method)
 
 La technique d'évaluation et de revue de programme (ou de projet) (PERT) est un outil statistique utilisé dans la gestion de projet, qui a été conçu pour analyser et représenter les tâches impliquées dans la réalisation d'un projet donné.  
 //  
@@ -135,6 +135,8 @@ References:
 https://en.wikipedia.org/wiki/Directed_acyclic_graph#Applications  
 https://fr.wikipedia.org/wiki/PERT  
 https://www.capgemini.com/gb-en/2020/10/introducing-directed-acyclic-graphs-and-their-use-cases/  
+https://www.workamajig.com/blog/critical-path-method  
+
 
 ## Lettre de presentation
 
