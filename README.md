@@ -3,7 +3,7 @@ Ce document est bilingue, la version Francaise precede la version Anglaise.
 
 # Systemes de Gestion et Optimisation des Actifs / Asset Management and Optimisation Systems. 
 
-Nous utilisons la gestion de qualité/projets et l'analyse des données pour optimiser le developement durabille, les opérations, la conformité reglementaire et l'environnement.  //  
+Nous utilisons la gestion de qualité/projets et l'analyse des données pour optimiser le developement durabilité, les opérations, la conformité reglementaire et l'environnement.  //  
 We use quality/project managment and data analytics to optimize sustainability, operations, regulatory compliance and the environment.  
 
 #### Capture d'écrans gestion des actifs.  / Screenshots Assets management.  
