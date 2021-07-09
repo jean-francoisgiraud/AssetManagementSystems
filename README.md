@@ -142,7 +142,7 @@ https://www.workamajig.com/blog/critical-path-method
 
 ## Lettre de presentation
 
-Subventions PGAM pour les municipalités. Offre de service et d'accompagnement personnalisé.  
+Subventions pour les municipalités (PGAM, FIMEAU, etc). Offre de service et d'accompagnement personnalisé.  
 Bonjour, 
  
 Les plans environnementaux des gouvernements Québécois et Canadien subventionnent le Programme de Gestion des actifs municipaux (PGAM) via le Ministère des Affaires Municipales et de l’Habitation du Québec (MAMH) [1] et la Fédération Canadienne des Municipalités (FCM) [2].  
@@ -153,7 +153,7 @@ L'offre de financement peut couvrir jusqu'à 80% ou 90% des coûts totaux d’un
  
 Les activités financées par le programme peuvent être par exemple: l'évaluation et la planification de la gestion des actifs; la collecte, l'analyse et la visualisation de données; la production de rapports; la formation et le développement; le transfert de connaissances [13 p.4].
  
-Notre entreprise de gestion de systèmes, d'analytique (analyse et visualisation de données) offre des services de support pour ce type d'activités, pour des mises aux normes et pour la préparation des demandes de subvention à divers programmes tel que le PGAM, FIMEAU (Fonds pour l'Infrastructure Municipale d'Eau). [4,5,6,7,8,9]. 
+Notre entreprise de gestion de systèmes et d'opérations, de vérification réglementaire, d'analytique (analyse et visualisation de données) offre des services de support pour ce type d'activités, pour des mises aux normes et pour la préparation des demandes de subvention à divers programmes tel que le PGAM, FIMEAU (Fonds pour l'Infrastructure Municipale d'Eau), etc. [4,5,6,7,8,9]. 
  
 Nos honoraires ($70/hr en 2021) sont des coûts admissibles [13 p.17, 14 p.6]). Nos méthodes de travail sont conformes aux normes de la FCM [3,13].  
  
@@ -182,8 +182,9 @@ Références
 [14] https://fcm.ca/sites/default/files/documents/funding/mamp/formulaire-de-demande.pdf  
 [15] https://www.portailmunicipal.gouv.qc.ca/SitePublic/  
 
+
 ## Presentation Letter
-MAMP Grants for municipalities. Service offer and personalized support.  
+MAMP Grants for municipalities (MAMH, FIMEAU, etc). Service offer and personalized support.
 Hello,
  
 The environmental plans of the Quebec and Canadian governments subsidize the Municipal Asset Management Program (MAMP) via the Quebec Ministry of Municipal Affairs and Housing (MAMH) [1] and the Canadian Federation of Municipalities (FCM) [2] .
@@ -194,7 +195,7 @@ The financing offer can cover up to 80% or 90% of the total costs of a project, 
  
 Activities funded by the program may include, for example: asset management assessment and planning; data collection, analysis and visualization; reporting; training and development; knowledge transfer [13 p.4].
  
-Our company offers management systems, analytics (data analysis and visualization) and support services for this type of activity, for upgrading to standards and for the preparation of grant applications for various programs and governmental grants for municipal infrastructure. [4,5,6,7,8,9]..
+Our company offers management of systems and operations, verification of regulatory compliances, analytics (data analysis and visualization) and support services for this type of activity, for upgrading to standards and for the preparation of grant applications for various programs and governmental grants for municipal infrastructure such as the MAMP, FIMEAU (Fonds pour l'Infrastructure Municipale d'Eau), etc. [4,5,6,7,8,9].
  
 Our fees ($ 70 / hr in 2021) are eligible costs [13 p.17, 14 p.6]). Our working methods comply with FCM standards [3,13].
  
@@ -204,7 +205,7 @@ Our systems document, analyze, visualize your data and optimize your operations 
  
 For already existing examples and samples of our work please see [7,10,11,12].
  
-It will be our pleasure to contact you or meet with you to assess your needs. Thank you.
+It will be our pleasure to contact or meet with you to assess your needs. Thank you.
  
 References
 [1] https://www.mamh.gouv.qc.ca/developpement-territorial/fonds-et-programmes/programme-de-gestion-des-actifs-municipaux-pgam/  
@@ -221,4 +222,4 @@ References
 [12] https://www.youtube.com/channel/UCvNxo97F92DibIA5zx9e-cw  
 [13] https://data.fcm.ca/documents/funding/mamp/application-guide.PDF  
 [14] https://fcm.ca/sites/default/files/documents/funding/mamp/application-form.pdf  
-[15] https://www.portailmunicipal.gouv.qc.ca/SitePublic/   
+[15] https://www.portailmunicipal.gouv.qc.ca/SitePublic/  
