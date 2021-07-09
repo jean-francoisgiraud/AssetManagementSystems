@@ -207,7 +207,7 @@ For already existing examples and samples of our work please see [7,10,11,12].
  
 It will be our pleasure to contact or meet with you to assess your needs. Thank you.
  
-References
+References  
 [1] https://www.mamh.gouv.qc.ca/developpement-territorial/fonds-et-programmes/programme-de-gestion-des-actifs-municipaux-pgam/  
 [2] https://www.fcm.ca/en/programs/municipal-asset-management-program  
 [3] https://fcm.ca/en/programs  
