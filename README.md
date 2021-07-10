@@ -163,9 +163,9 @@ Nos systèmes documentent, analysent, visualisent vos données; optimisent vos o
  
 Pour des exemples et échantillons de notre travail déjà existants SVP voir [7,10,11,12].  
  
-Il nous fera plaisir de vous contacter ou de vous rencontrer pour évaluer vos besoins.  Merci.  
+Il nous fera plaisir de vous contacter ou de vous rencontrer [16] pour évaluer vos besoins.  Merci.  
  
-Références  
+Références et notes:  
 [1] https://www.mamh.gouv.qc.ca/developpement-territorial/fonds-et-programmes/programme-de-gestion-des-actifs-municipaux-pgam/  
 [2] https://www.fcm.ca/fr/programmes/programme-gestion-actifs-municipaux  
 [3] https://fcm.ca/fr/programmes  
@@ -181,10 +181,12 @@ Références
 [13] https://data.fcm.ca/documents/funding/mamp/guide-de-presentation-des-demandes.pdf
 [14] https://fcm.ca/sites/default/files/documents/funding/mamp/formulaire-de-demande.pdf  
 [15] https://www.portailmunicipal.gouv.qc.ca/SitePublic/  
+[16] Nous sommes disponibles par téléphone, courriel, visioconférence et en personne dans certaines zones.  
+
 
 
 ## Presentation Letter
-MAMP Grants for municipalities (MAMH, FIMEAU, etc). Service offer and personalized support.
+Grants for municipalities (MAMH, FIMEAU, etc). Service offer and personalized support.
 Hello,
  
 The environmental plans of the Quebec and Canadian governments subsidize the Municipal Asset Management Program (MAMP) via the Quebec Ministry of Municipal Affairs and Housing (MAMH) [1] and the Canadian Federation of Municipalities (FCM) [2] .
@@ -205,9 +207,9 @@ Our systems document, analyze, visualize your data and optimize your operations 
  
 For already existing examples and samples of our work please see [7,10,11,12].
  
-It will be our pleasure to contact or meet with you to assess your needs. Thank you.
+It will be our pleasure to contact or meet with you [16] to assess your needs. Thank you.
  
-References  
+References and notes:  
 [1] https://www.mamh.gouv.qc.ca/developpement-territorial/fonds-et-programmes/programme-de-gestion-des-actifs-municipaux-pgam/  
 [2] https://www.fcm.ca/en/programs/municipal-asset-management-program  
 [3] https://fcm.ca/en/programs  
@@ -223,3 +225,4 @@ References
 [13] https://data.fcm.ca/documents/funding/mamp/application-guide.PDF  
 [14] https://fcm.ca/sites/default/files/documents/funding/mamp/application-form.pdf  
 [15] https://www.portailmunicipal.gouv.qc.ca/SitePublic/  
+[16] We are available by phone, email, video conference and in person in some areas.  
