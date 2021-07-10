@@ -47,7 +47,6 @@ PERT network chart for a seven-month project with five milestones (10 through 50
 <img src="Sankey-diagram-showing-the-cumulative-flow-of-materials-through-the-global-economy-from.png" width="640" height="480">
 <img src="CaliforniaEstimatedEnergyAndWaterFlows2010-1.png" width="640" height="480">
 <img src="CaliforniaEstimatedEnergyAndWaterFlows2010.png" width="640" height="480">
-<img src="1280px-Sankeysteam.png" width="640" height="480">
 <img src="energy-consumption-sankey-1.png" width="640" height="480">
 
 References, copyrights, wikicommons, disclaimers:  
@@ -91,7 +90,7 @@ ISO 55001	Systèmes de gestion des actifs.
 ## Codes (R)
 Voici des exemples de code R [1] que nous utilions pour produire les plans, optimisations, analyses et diagrammmes les plus complexes.  
 // 
-Here is some examples of the R code [2] we use to produce the more complex plans, optimisations, data analysis, diagrams and graphics.  
+Here are some examples of the R code [2] we use to produce the more complex plans, optimisations, data analysis, diagrams and graphics.  
 
 [1] R est un langage de programmation et un logiciel libre destiné aux statistiques et à la science des données. ref https://fr.wikipedia.org/wiki/R_(langage)  
 [2] R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data analysis. ref https://en.wikipedia.org/wiki/R_(programming_language)  
