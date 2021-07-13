@@ -154,7 +154,7 @@ Les activités financées par le programme peuvent être par exemple: l'évaluat
  
 Notre entreprise de gestion de systèmes et d'opérations, de vérification réglementaire, d'analytique (analyse et visualisation de données) offre des services de support pour ce type d'activités, pour des mises aux normes et pour la préparation des demandes de subvention à divers programmes tel que le PGAM, FIMEAU (Fonds pour l'Infrastructure Municipale d'Eau), etc. [4,5,6,7,8,9]. 
  
-Nos honoraires ($70/hr en 2021) sont des coûts admissibles [13 p.17, 14 p.6]). Nos méthodes de travail sont conformes aux normes de la FCM [3,13].  
+Nos méthodes de travail sont conformes aux normes de la FCM [3,13].  Nos honoraires ($70/hr en 2021) sont des coûts admissibles [13 p.17, 14 p.6]). Conformément au régime général concernant la passation des contrats municipaux [16], nos contrats sont inférieurs au seuil obligeant l’appel d’offres public (moins de 105 700 $). Jusqu'à 24 999 $ la règle applicable est: De gré à gré ou, le cas échéant, selon les règles prévues dans le règlement sur la gestion contractuelle (RGC) de l’organisme municipal. Les organismes municipaux peuvent conclure des contrats de  services  avec des fournisseurs ordinaires ou des contrats de services professionnels à exercice exclusif (médecin, avocat, comptables, ingénieur etc)[17].  
  
 Nos systèmes documentent, analysent, visualisent vos données; optimisent vos opérations et sont:  
 - des registres-chiffriers programmes ouverts (.ods .r), collaboratifs, distribués (nuage internet, git) ou des systèmes locaux, fermés (des fichiers .xls .r sur un intranet privé);  
@@ -162,7 +162,7 @@ Nos systèmes documentent, analysent, visualisent vos données; optimisent vos o
  
 Pour des exemples et échantillons de notre travail déjà existants SVP voir [7,10,11,12].  
  
-Il nous fera plaisir de vous contacter ou de vous rencontrer [16] pour évaluer vos besoins.  Merci.  
+Il nous fera plaisir de vous contacter ou de vous rencontrer [18] pour évaluer vos besoins.  Merci.  
  
 Références et notes:  
 [1] https://www.mamh.gouv.qc.ca/developpement-territorial/fonds-et-programmes/programme-de-gestion-des-actifs-municipaux-pgam/  
@@ -180,9 +180,9 @@ Références et notes:
 [13] https://data.fcm.ca/documents/funding/mamp/guide-de-presentation-des-demandes.pdf
 [14] https://fcm.ca/sites/default/files/documents/funding/mamp/formulaire-de-demande.pdf  
 [15] https://www.portailmunicipal.gouv.qc.ca/SitePublic/  
-[16] Nous sommes disponibles par téléphone, courriel, visioconférence et en personne dans certaines zones.  
-
-
+[16] https://www.mamh.gouv.qc.ca/fileadmin/publications/plainte_gestion_contractuelle/gestion_contractuelle/regime_general_adjudication.pdf  
+[17] https://www.mamh.gouv.qc.ca/gestion-contractuelle/gestion-contractuelle/#c8122  
+[18] Nous sommes disponibles par téléphone, courriel, visioconférence et en personne dans certaines zones.  
 
 ## Presentation Letter
 Grants for municipalities (MAMH, FIMEAU, etc). Service offer and personalized support.
@@ -198,7 +198,7 @@ Activities funded by the program may include, for example: asset management asse
  
 Our company offers management of systems and operations, verification of regulatory compliances, analytics (data analysis and visualization) and support services for this type of activity, for upgrading to standards and for the preparation of grant applications for various programs and governmental grants for municipal infrastructure such as the MAMP, FIMEAU (Fonds pour l'Infrastructure Municipale d'Eau), etc. [4,5,6,7,8,9].
  
-Our fees ($ 70 / hr in 2021) are eligible costs [13 p.17, 14 p.6]). Our working methods comply with FCM standards [3,13].
+Our working methods comply with FCM standards [3,13]. Our fees ($ 70 / hr in 2021) are eligible costs [13 p.17, 14 p.6]). In accordance with the General Regime for the Awarding of Municipal Contracts [16], our contracts are below the threshold for a public call for tenders (less than $ 105,700). Up to $ 24,999 the applicable rule is: By mutual agreement or, where applicable, according to the rules provided for in the regulation on contractual management (RGC) of the municipal body. Municipal bodies can conclude service contracts with ordinary suppliers or professional service contracts with exclusive practice (doctor, lawyer, accountants, engineer, etc.) [17].  
  
 Our systems document, analyze, visualize your data and optimize your operations and are:
 - open spreadsheet registers, programs  (.ods .r), collaborative, distributed (internet cloud, git) or local, closed systems (.xls .r files on a private intranet);
@@ -206,7 +206,7 @@ Our systems document, analyze, visualize your data and optimize your operations 
  
 For already existing examples and samples of our work please see [7,10,11,12].
  
-It will be our pleasure to contact or meet with you [16] to assess your needs. Thank you.
+It will be our pleasure to contact or meet with you [18] to assess your needs. Thank you.
  
 References and notes:  
 [1] https://www.mamh.gouv.qc.ca/developpement-territorial/fonds-et-programmes/programme-de-gestion-des-actifs-municipaux-pgam/  
@@ -224,4 +224,6 @@ References and notes:
 [13] https://data.fcm.ca/documents/funding/mamp/application-guide.PDF  
 [14] https://fcm.ca/sites/default/files/documents/funding/mamp/application-form.pdf  
 [15] https://www.portailmunicipal.gouv.qc.ca/SitePublic/  
-[16] We are available by phone, email, video conference and in person in some areas.  
+[16] https://www.mamh.gouv.qc.ca/fileadmin/publications/plainte_gestion_contractuelle/gestion_contractuelle/regime_general_adjudication.pdf  
+[17] https://www.mamh.gouv.qc.ca/gestion-contractuelle/gestion-contractuelle/#c8122  
+[18] We are available by phone, email, video conference and in person in some areas.  
