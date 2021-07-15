@@ -1,3 +1,4 @@
+<!-- a normal html comment -->
 This is a bilingual document, the English version follows the french version.  
 Ce document est bilingue, la version Francaise precede la version Anglaise.  
 
@@ -43,7 +44,7 @@ PERT network chart for a seven-month project with five milestones (10 through 50
 <img src="UKenergy-Sankey.png" width="640" height="480">
 <img src="USAenergyFlow.png" width="640" height="480">
 <img src="Material_Flow_Accounting_Scheme.png" width="640" height="480">
-<img src="SustainabilitySaoPaulo.jpg" width="640" height="480">
+<!-- <img src="SustainabilitySaoPaulo.jpg" width="640" height="480"> -->
 <img src="Sankey-diagram-showing-the-cumulative-flow-of-materials-through-the-global-economy-from.png" width="640" height="480">
 <img src="CaliforniaEstimatedEnergyAndWaterFlows2010-1.png" width="640" height="480">
 <img src="CaliforniaEstimatedEnergyAndWaterFlows2010.png" width="640" height="480">
@@ -56,7 +57,7 @@ https://www.ontario.ca/document/building-better-lives-ontarios-long-term-infrast
 https://www.r-graph-gallery.com/sankey-diagram.html  
 https://www.sankey-diagrams.com/excelling-in-excel/  
 https://commons.wikimedia.org/wiki/File:Sankeysteam.png  
-https://en.wikipedia.org/wiki/Sustainability#/media/File:Sao_Paulo_Profile,_Level_1,_2012.jpg  
+<!-- https://en.wikipedia.org/wiki/Sustainability#/media/File:Sao_Paulo_Profile,_Level_1,_2012.jpg -->  
 https://www.researchgate.net/figure/Sankey-diagram-showing-the-cumulative-flow-of-materials-through-the-global-economy-from_fig3_326507485  
 https://www.greencarcongress.com/2018/04/201080420-llnl.html  
 https://en.wikipedia.org/wiki/Material_flow_accounting  
@@ -141,7 +142,7 @@ https://www.workamajig.com/blog/critical-path-method
 
 ## Lettre de presentation
 
-Subventions pour les municipalités (PGAM, FIMEAU, etc). Offre de service et d'accompagnement personnalisé.  
+Offre de service et support pour les programmes municipaux tels que le PGAM et FIMEAU.   
 Bonjour, 
  
 Les plans environnementaux des gouvernements Québécois et Canadien subventionnent le Programme de Gestion des actifs municipaux (PGAM) via le Ministère des Affaires Municipales et de l’Habitation du Québec (MAMH) [1] et la Fédération Canadienne des Municipalités (FCM) [2].  
@@ -152,9 +153,9 @@ L'offre de financement peut couvrir jusqu'à 80% ou 90% des coûts totaux d’un
  
 Les activités financées par le programme peuvent être par exemple: l'évaluation et la planification de la gestion des actifs; la collecte, l'analyse et la visualisation de données; la production de rapports; la formation et le développement; le transfert de connaissances [13 p.4].
  
-Notre entreprise de gestion de systèmes et d'opérations, de vérification réglementaire, d'analytique (analyse et visualisation de données) offre des services de support pour ce type d'activités, pour des mises aux normes et pour la préparation des demandes de subvention à divers programmes tel que le PGAM, FIMEAU (Fonds pour l'Infrastructure Municipale d'Eau), etc. [4,5,6,7,8,9]. 
+Notre entreprise de gestion de systèmes et d'opérations, de vérification réglementaire, d'analytique (analyse et visualisation de données) offre des services de support et d'accompagnement personnalisé pour ce type d'activités, pour des mises aux normes et pour la préparation des demandes de subvention à divers programmes tel que le PGAM, FIMEAU (Fonds pour l'Infrastructure Municipale d'Eau), etc. [4,5,6,7,8,9]. 
  
-Nos méthodes de travail sont conformes aux normes de la FCM [3,13].  Nos honoraires ($70/hr en 2021) sont des coûts admissibles [13 p.17, 14 p.6]). Conformément au régime général concernant la passation des contrats municipaux [16], nos contrats sont inférieurs au seuil obligeant l’appel d’offres public (moins de 105 700 $). Jusqu'à 24 999 $ la règle applicable est: De gré à gré ou, le cas échéant, selon les règles prévues dans le règlement sur la gestion contractuelle (RGC) de l’organisme municipal. Les organismes municipaux peuvent conclure des contrats de  services  avec des fournisseurs ordinaires ou des contrats de services professionnels à exercice exclusif (médecin, avocat, comptables, ingénieur etc)[17].  
+Nos méthodes de travail sont conformes aux normes de la FCM [3,13].  Nos honoraires ($70/hr en 2021) sont des coûts admissibles [13 p.17, 14 p.6]). Conformément au régime général concernant la passation des contrats municipaux [16], nos contrats sont inférieurs au seuil obligeant l’appel d’offres public [17,18,19].  
  
 Nos systèmes documentent, analysent, visualisent vos données; optimisent vos opérations et sont:  
 - des registres-chiffriers programmes ouverts (.ods .r), collaboratifs, distribués (nuage internet, git) ou des systèmes locaux, fermés (des fichiers .xls .r sur un intranet privé);  
@@ -162,7 +163,7 @@ Nos systèmes documentent, analysent, visualisent vos données; optimisent vos o
  
 Pour des exemples et échantillons de notre travail déjà existants SVP voir [7,10,11,12].  
  
-Il nous fera plaisir de vous contacter ou de vous rencontrer [18] pour évaluer vos besoins.  Merci.  
+Il nous fera plaisir de vous contacter ou de vous rencontrer [20] pour évaluer vos besoins.  Merci.  
  
 Références et notes:  
 [1] https://www.mamh.gouv.qc.ca/developpement-territorial/fonds-et-programmes/programme-de-gestion-des-actifs-municipaux-pgam/  
@@ -181,11 +182,14 @@ Références et notes:
 [14] https://fcm.ca/sites/default/files/documents/funding/mamp/formulaire-de-demande.pdf  
 [15] https://www.portailmunicipal.gouv.qc.ca/SitePublic/  
 [16] https://www.mamh.gouv.qc.ca/fileadmin/publications/plainte_gestion_contractuelle/gestion_contractuelle/regime_general_adjudication.pdf  
-[17] https://www.mamh.gouv.qc.ca/gestion-contractuelle/gestion-contractuelle/#c8122  
-[18] Nous sommes disponibles par téléphone, courriel, visioconférence et en personne dans certaines zones.  
+[17] Moins de $105 700. Jusqu'à $24 999 la règle applicable est: De gré à gré ou, le cas échéant, selon les règles prévues dans le règlement sur la gestion contractuelle (RGC) de l’organisme municipal.  
+[18] Les organismes municipaux peuvent conclure des contrats de  services avec des fournisseurs ordinaires ou des contrats de services professionnels à exercice exclusif (médecin, avocat, comptables, ingénieur etc).  
+[19] https://www.mamh.gouv.qc.ca/gestion-contractuelle/gestion-contractuelle/#c8122  
+[20] Nous sommes disponibles par téléphone, courriel, visioconférence et en personne dans certaines zones.  
+
 
 ## Presentation Letter
-Grants for municipalities (MAMH, FIMEAU, etc). Service offer and personalized support.
+Service offer. Support for municipal programs such as the MAMH.  
 Hello,
  
 The environmental plans of the Quebec and Canadian governments subsidize the Municipal Asset Management Program (MAMP) via the Quebec Ministry of Municipal Affairs and Housing (MAMH) [1] and the Canadian Federation of Municipalities (FCM) [2] .
@@ -196,9 +200,9 @@ The financing offer can cover up to 80% or 90% of the total costs of a project, 
  
 Activities funded by the program may include, for example: asset management assessment and planning; data collection, analysis and visualization; reporting; training and development; knowledge transfer [13 p.4].
  
-Our company offers management of systems and operations, verification of regulatory compliances, analytics (data analysis and visualization) and support services for this type of activity, for upgrading to standards and for the preparation of grant applications for various programs and governmental grants for municipal infrastructure such as the MAMP, FIMEAU (Fonds pour l'Infrastructure Municipale d'Eau), etc. [4,5,6,7,8,9].
+Our company offers management of systems and operations, verification of regulatory compliances, analytics (data analysis and visualization) and personalized support services for this type of activity, for upgrading to standards and for the preparation of grant applications for various programs and governmental grants for municipal infrastructure such as the MAMP, FIMEAU (Fonds pour l'Infrastructure Municipale d'Eau in Quebec), etc. [4,5,6,7,8,9].
  
-Our working methods comply with FCM standards [3,13]. Our fees ($ 70 / hr in 2021) are eligible costs [13 p.17, 14 p.6]). In accordance with the General Regime for the Awarding of Municipal Contracts [16], our contracts are below the threshold for a public call for tenders (less than $ 105,700). Up to $ 24,999 the applicable rule is: By mutual agreement or, where applicable, according to the rules provided for in the regulation on contractual management (RGC) of the municipal body. Municipal bodies can conclude service contracts with ordinary suppliers or professional service contracts with exclusive practice (doctor, lawyer, accountants, engineer, etc.) [17].  
+Our working methods comply with FCM standards [3,13]. Our fees ($70/ hr in 2021) are eligible costs [13 p.17, 14 p.6]). In accordance with the General Regime for the Awarding of Municipal Contracts (in Quebec, similar laws are applicable in other provinces) [16], our contracts are below the threshold for a public call for tenders [17,18,19].  
  
 Our systems document, analyze, visualize your data and optimize your operations and are:
 - open spreadsheet registers, programs  (.ods .r), collaborative, distributed (internet cloud, git) or local, closed systems (.xls .r files on a private intranet);
@@ -206,7 +210,7 @@ Our systems document, analyze, visualize your data and optimize your operations 
  
 For already existing examples and samples of our work please see [7,10,11,12].
  
-It will be our pleasure to contact or meet with you [18] to assess your needs. Thank you.
+It will be our pleasure to contact or meet with you [20] to assess your needs. Thank you.
  
 References and notes:  
 [1] https://www.mamh.gouv.qc.ca/developpement-territorial/fonds-et-programmes/programme-de-gestion-des-actifs-municipaux-pgam/  
@@ -225,5 +229,7 @@ References and notes:
 [14] https://fcm.ca/sites/default/files/documents/funding/mamp/application-form.pdf  
 [15] https://www.portailmunicipal.gouv.qc.ca/SitePublic/  
 [16] https://www.mamh.gouv.qc.ca/fileadmin/publications/plainte_gestion_contractuelle/gestion_contractuelle/regime_general_adjudication.pdf  
-[17] https://www.mamh.gouv.qc.ca/gestion-contractuelle/gestion-contractuelle/#c8122  
-[18] We are available by phone, email, video conference and in person in some areas.  
+[17] Less than $105,700. Up to $24,999 the applicable rule is: By mutual agreement or, where applicable, according to the rules provided for in the regulation on contractual management of the municipal body.  
+[18] Municipal bodies can conclude service contracts with ordinary suppliers or professional service contracts with exclusive practice.  
+[19] https://www.mamh.gouv.qc.ca/gestion-contractuelle/gestion-contractuelle/#c8122  
+[20] We are available by phone, email, video conference and in person in some areas.  
